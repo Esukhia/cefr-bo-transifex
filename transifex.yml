@@ -8,5 +8,5 @@ git:
     - filter_type: dir
       source_language: en
       source_file: cefr-bo
-      translation_files_expression: 'translations/cefr-bo/*'
+      translation_files_expression: 'cefr-bo/*'
       destination_file: cefr-bo-transifex
