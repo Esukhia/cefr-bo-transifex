@@ -3,5 +3,10 @@ git:
     - filter_type: file
       file_format: MS_DOCX
       source_language: en
-      source_file: 'linguistic-general linguistic range_en.docx'
+      source_file: ''
       translation_files_expression: ''
+    - filter_type: dir
+      source_language: en
+      source_file: cefr-bo
+      translation_files_expression: 'translations/cefr-bo/*'
+      destination_file: cefr-bo-transifex
