@@ -1,0 +1,7 @@
+git:
+  filters:
+    - filter_type: dir
+      file_format: MS-DOCX
+      source_language: en
+      source_file: cefr-bo
+      translation_files_expression: 'cefr-bo'
