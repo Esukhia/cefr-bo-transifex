@@ -1,6 +1,6 @@
 git:
   filters:
-    - filter_type: dir
+    - filter_type: file
       file_format : docx 
       source_file_dir: cefr-bo
       source_file_extension: docx
