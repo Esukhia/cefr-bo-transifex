@@ -1,0 +1,7 @@
+git:
+  filters:
+    - filter_type: file
+      file_format: GITHUBMARKDOWN
+      source_language: en
+      source_file: '2023/all.en.md'
+      translation_files_expression: '2023/all.<lang>.md'
