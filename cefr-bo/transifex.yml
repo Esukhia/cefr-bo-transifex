@@ -1,7 +1,8 @@
 git:
   filters:
     - filter_type: dir
-      file_format: MS-DOCX
+      file_format : docx 
+      source_file_dir: cefr-bo
+      source_file_extension: docx
       source_language: en
-      source_file: cefr-bo
-      translation_files_expression: 'cefr-bo/*'
+      translation_files_expression: '<lang>/*'
