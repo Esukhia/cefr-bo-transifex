@@ -1,8 +1,8 @@
+
 git:
   filters:
     - filter_type: file
-      file_format : docx 
-      source_file_dir: cefr-bo
-      source_file_extension: docx
+      file_format: docx
       source_language: en
-      translation_files_expression: '<lang>/*'
+      source_file: Languages/Tibetan/*.docx
+      translation_files_expression: 'Languages/Tibetan/<lang>.docx'
