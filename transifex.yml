@@ -4,5 +4,5 @@ git:
     - filter_type: file
       file_format: docx
       source_language: en
-      source_file: resources/*.docx
-      translation_files_expression: 'resources/*.docx'
+      source_file: english/*.docx
+      translation_files_expression: 'Tibetan/*.docx'
