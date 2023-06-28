@@ -4,5 +4,5 @@ git:
     - filter_type: file
       file_format: docx
       source_language: en
-      source_file: translations/en/cefr.docx
-      translation_files_expression: 'translations/<lang>/cefr.docx'
+      source_file: translations/en/linguistic-general linguistic range_en.docx
+      translation_files_expression: 'translations/<lang>/linguistic-general linguistic range_bo.docx'
