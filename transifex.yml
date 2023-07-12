@@ -1,8 +1,9 @@
 
 git:
-  filters:
-    - filter_type: file
-      file_format: docx
-      source_language: en
-      source_file: translations/en/cefr-bo_linguistic-general-linguistic-range_endocx_en.docx
-      translation_files_expression: 'translations/<lang>/cefr-bo_linguistic-general-linguistic-range_endocx_bo.docx'
+filters:
+- filter_type: dir
+  file_format: DOCX
+  source_file_extension: docx
+  source_language: en
+  source_file_dir: translations/en
+  translation_files_expression: 'Translations/<lang>'      
