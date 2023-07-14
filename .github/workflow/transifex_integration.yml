@@ -6,7 +6,9 @@ on:
 name: "Translations Sync"
 
 jobs:
+
   push-strings-to-transifex:
+  
     if: github.event.label.name == 'Ready for translations'
     - name: "Pull from transifex and commit to the PR"
         with: # Or as an environment variable
