@@ -1,0 +1,8 @@
+
+git:
+  filters:
+    - filter_type: file
+      file_format: docx
+      source_language: en
+      source_file: translations/en/*.docx
+      translation_files_expression: 'translations/<lang>/'

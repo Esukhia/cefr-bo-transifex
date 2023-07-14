@@ -1,0 +1,19 @@
+
+on:
+  pull_request:
+    types: [labeled]
+
+name: "Translations Sync"
+
+jobs:
+  push-strings-to-transifex:
+    if: github.event.label.name == 'Ready for translations'
+    - name: "Pull from transifex and commit to the PR"
+        with: # Or as an environment variable
+            tx_token: ${{ secrets.TX_TOKEN }}
+            git_flow: true
+            github_token: ${{ secrets.GITHUB_TOKEN }}
+            translations_folder: translations/bo
+            pull_translations: true
+            pull_sources: true
+            commit_to_pr: true
