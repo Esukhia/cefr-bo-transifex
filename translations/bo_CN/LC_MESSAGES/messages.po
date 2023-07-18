@@ -34,3 +34,22 @@ msgstr ""
 #: app/templates/account/register.html:8
 msgid "Create an account"
 msgstr ""
+
+#: app/templates/control_lists/contact.html:8
+msgid "Contact control lists administrators"
+msgstr ""
+
+#: app/templates/control_lists/contact.html:10
+msgid ""
+"This page is built so that you can contact administrators of a control list to propose\n"
+"            new lemma, POS or morphologies accepted values. We have preferred to use email so that discussion could be rich\n"
+"            when needed."
+msgstr ""
+"This page is built so that you can contact administrators of a control list to propose\n"
+"            new lemma, POS or morphologies accepted values. We have preferred to use email so that discussion could be rich\n"
+"            when needed."
+
+#: app/templates/control_lists/control_list.html:10
+#: app/templates/control_lists/information_edit.html:10
+msgid "Description"
+msgstr ""
