@@ -31,7 +31,7 @@ msgstr "གསང་ཡིག་དྲན་པ་བརྗེད་"
 
 #: app/templates/account/register.html:8
 msgid "Create an account"
-msgstr "ཐོ་འགོད།"
+msgstr "ཐོ་འགོད་།"
 
 #: app/templates/control_lists/contact.html:8
 msgid "Contact control lists administrators"
