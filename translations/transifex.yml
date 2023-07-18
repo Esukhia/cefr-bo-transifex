@@ -4,5 +4,5 @@ git:
     - filter_type: file
       file_format: docx
       source_language: en
-      source_file: translations/en/cefr-bo_linguistic-general-linguistic-range_endocx_en.docx
-      translation_files_expression: 'translations/<lang>/'
+      source_file: translations/en/test_en.txt
+      translation_files_expression: 'translations/<lang>/test_bo.txt'
