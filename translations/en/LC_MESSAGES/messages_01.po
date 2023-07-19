@@ -1,0 +1,7 @@
+#: app/templates/control_lists/macros.html:27
+msgid "Edit informations"
+msgstr "Edit informations"
+
+#: app/templates/control_lists/read_lemma.html:8
+msgid "Control List for Lemmas"
+msgstr "Control List for Lemmas"

@@ -1,0 +1,7 @@
+#: app/templates/control_lists/macros.html:15
+msgid "Morphologies"
+msgstr "Morphologies"
+
+#: app/templates/control_lists/macros.html:17
+msgid "Others"
+msgstr "Others"
