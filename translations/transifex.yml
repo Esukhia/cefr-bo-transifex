@@ -1,7 +1,7 @@
 git:
   filters:
-    - filter_type: file
+    - filter_type: dir
       file_format: PO
       source_language: en
-      source_file: translations/en/LC_MESSAGES/*.po
-      translation_files_expression: 'translations/<lang>/LC_MESSAGES/*.po'
+      source_file_dir: translations/en/LC_MESSAGES
+      translation_files_expression: 'translations/<lang>/LC_MESSAGES'
