@@ -1,7 +1,9 @@
-"Log in"
 
-"Forgot password?"
 
-"Create an account"
+#: app/templates/account/register.html:8
+msgid "Create an account"
+msgstr "Create an account"
 
-"Contact control lists administrators"
+#: app/templates/control_lists/contact.html:8
+msgid "Contact control lists administrators"
+msgstr "Contact control lists administrators"
