@@ -5,6 +5,3 @@ git:
       source_language: en
       source_file: translations/en/messages.po
       translation_files_expression: 'translations/<lang>/messages.po'
-
-
-
