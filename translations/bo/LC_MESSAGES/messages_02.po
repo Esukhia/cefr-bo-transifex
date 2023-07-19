@@ -15,4 +15,4 @@ msgstr "སྐད་ཡིགདང"
 
 #: app/templates/control_lists/information_edit.html:17
 msgid "Language, using"
-msgstr "སྐད་ཡིག་བེད་སྤྱོད་"
+msgstr "སྐད་ཡིག་བེད་སྤྱོད་དསྔ"
