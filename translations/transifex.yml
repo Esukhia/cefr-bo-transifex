@@ -4,4 +4,4 @@ git:
       file_format: PO
       source_language: en
       source_file: translations/en/LC_MESSAGES/messages.po
-      translation_files_expression: 'translations/bo_CN/LC_MESSAGES/messages.po'
+      translation_files_expression: 'translations/<lang>/LC_MESSAGES/messages.po'
