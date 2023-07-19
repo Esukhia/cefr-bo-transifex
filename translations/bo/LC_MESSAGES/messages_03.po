@@ -15,4 +15,4 @@ msgstr "བཟོསདངྶྡང"
 
 #: app/templates/control_lists/contact.html:8
 msgid "Contact control lists administrators"
-msgstr "ཧ་ལོ་"
+msgstr "ཧ་ལོ་ྶྡངྶྡང"
