@@ -3,7 +3,7 @@ git:
     - filter_type: file
       file_format: PO
       source_language: en
-      source_file_dir: translations/en/LC_MESSAGES/messages.po
+      source_file: translations/en/LC_MESSAGES/messages.po
       translation_files_expression: 'translations/<lang>/LC_MESSAGES/messages.po'
 
 
@@ -11,5 +11,5 @@ git:
     - filter_type: file
       file_format: PO
       source_language: en
-      source_file_dir: translations/en/LC_MESSAGES/messages_01.po
+      source_file: translations/en/LC_MESSAGES/messages_01.po
       translation_files_expression: 'translations/<lang>/LC_MESSAGES/messages_01.po'  
