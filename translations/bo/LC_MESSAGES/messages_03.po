@@ -1,0 +1,18 @@
+# 
+# Translators:
+# Lungsang bod, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Lungsang bod, 2023\n"
+"Language-Team: Tibetan (https://app.transifex.com/OpenPecha/teams/136507/bo/)\n"
+"Language: bo\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: app/templates/account/register.html:8
+msgid "Create an account"
+msgstr "བཟོ"
+
+#: app/templates/control_lists/contact.html:8
+msgid "Contact control lists administrators"
+msgstr "ཧ་ལོ་"
