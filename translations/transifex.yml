@@ -3,5 +3,5 @@ git:
     - filter_type: file
       file_format: PO
       source_language: en
-      source_file: translations/en/messages.po
-      translation_files_expression: 'translations/<lang>/messages.po'
+      source_file: translations/en/LC_MESSAGES/messages.po
+      translation_files_expression: 'translations/bo_CN/LC_MESSAGES/messages.po'
