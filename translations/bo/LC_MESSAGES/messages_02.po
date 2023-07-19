@@ -1,7 +1,0 @@
-#: app/templates/control_lists/information_edit.html:16
-msgid "Language"
-msgstr "Language"
-
-#: app/templates/control_lists/information_edit.html:17
-msgid "Language, using"
-msgstr "Language, using"
