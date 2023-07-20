@@ -1,0 +1,76 @@
+#. extracted from cefr-bo_linguistic-overall-phonological-control_endocx_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-20 14:10+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: cefr-bo_linguistic-overall-phonological-control_endocx_en.txt:2
+msgid "Overall phonological control"
+msgstr ""
+
+#: cefr-bo_linguistic-overall-phonological-control_endocx_en.txt:9
+msgid ""
+"C2_Can employ the full range of phonological features in the target"
+"language with a high level of control – including prosodic features such"
+"as word and sentence stress, rhythm and intonation – so that the finer"
+"points of their message are clear and precise. Intelligibility and"
+"effective conveyance and enhancement of meaning are not affected in any"
+"way by features of accent that may be retained from other language(s)."
+msgstr ""
+
+#: cefr-bo_linguistic-overall-phonological-control_endocx_en.txt:12
+msgid ""
+"C1_Can employ the full range of phonological features in the target"
+"language with sufficient control to ensure intelligibility throughout."
+msgstr ""
+
+#: cefr-bo_linguistic-overall-phonological-control_endocx_en.txt:16
+msgid ""
+"Can articulate virtually all the sounds of the target language; some"
+"features of accent(s) retained from other language(s) may be noticeable,"
+"but they do not affect intelligibility."
+msgstr ""
+
+#: cefr-bo_linguistic-overall-phonological-control_endocx_en.txt:21
+msgid ""
+"B2_Can generally use appropriate intonation, place stress correctly and"
+"articulate individual sounds clearly; accent tends to be influenced by"
+"the other language(s) they speak, but has little or no effect on"
+"intelligibility."
+msgstr ""
+
+#: cefr-bo_linguistic-overall-phonological-control_endocx_en.txt:26
+msgid ""
+"B1_Pronunciation is generally intelligible; intonation and stress at"
+"both utterance and word levels do not prevent understanding of the"
+"message. Accent is usually influenced by the other language(s) they"
+"speak."
+msgstr ""
+
+#: cefr-bo_linguistic-overall-phonological-control_endocx_en.txt:33
+msgid ""
+"A2_Pronunciation is generally clear enough to be understood, but"
+"conversational partners will need to ask for repetition from time to"
+"time. A strong influence from the other language(s) they speak on"
+"stress, rhythm and intonation may affect intelligibility, requiring"
+"collaboration from interlocutors. Nevertheless, pronunciation of"
+"familiar words is clear."
+msgstr ""
+
+#: cefr-bo_linguistic-overall-phonological-control_endocx_en.txt:38
+msgid ""
+"A1_Pronunciation of a very limited repertoire of learnt words and"
+"phrases can be understood with some effort by interlocutors used to"
+"dealing with speakers of the language group. Can reproduce correctly a"
+"limited range of sounds as well as stress for simple, familiar words and"
+"phrases."
+msgstr ""

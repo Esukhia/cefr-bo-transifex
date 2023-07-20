@@ -1,0 +1,70 @@
+#. extracted from cefr-bo_overall-oral-productiondocx_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-20 14:10+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: cefr-bo_overall-oral-productiondocx_en.txt:2
+msgid "Overall oral production"
+msgstr ""
+
+#: cefr-bo_overall-oral-productiondocx_en.txt:6
+msgid ""
+"C2_Can produce clear, smoothly flowing, well-structured discourse with"
+"an effective logical structure which helps the recipient to notice and"
+"remember significant points."
+msgstr ""
+
+#: cefr-bo_overall-oral-productiondocx_en.txt:10
+msgid ""
+"C1_Can give clear, detailed descriptions and presentations on complex"
+"subjects, integrating sub-themes, developing particular points and"
+"rounding off with an appropriate conclusion."
+msgstr ""
+
+#: cefr-bo_overall-oral-productiondocx_en.txt:14
+msgid ""
+"B2+-Can give clear, systematically developed descriptions and"
+"presentations, with appropriate highlighting of significant points, and"
+"relevant supporting detail."
+msgstr ""
+
+#: cefr-bo_overall-oral-productiondocx_en.txt:18
+msgid ""
+"B2_Can give clear, detailed descriptions and presentations on a wide"
+"range of subjects related to their field of interest, expanding and"
+"supporting ideas with subsidiary points and relevant examples."
+msgstr ""
+
+#: cefr-bo_overall-oral-productiondocx_en.txt:22
+msgid ""
+"B1_Can reasonably fluently sustain a straightforward description of one"
+"of a variety of subjects within their field of interest, presenting it"
+"as a linear sequence of points."
+msgstr ""
+
+#: cefr-bo_overall-oral-productiondocx_en.txt:26
+msgid ""
+"A2_Can give a simple description or presentation of people, living or"
+"working conditions, daily routines. likes/dislikes, etc. as a short"
+"series of simple phrases and sentences linked into a list."
+msgstr ""
+
+#: cefr-bo_overall-oral-productiondocx_en.txt:28
+msgid "A1_Can produce simple, mainly isolated phrases about people and places."
+msgstr ""
+
+#: cefr-bo_overall-oral-productiondocx_en.txt:30
+msgid ""
+"Pre-A1_Can produce short phrases about themselves, giving basic personal"
+"information (e.g. name, address, family, nationality)."
+msgstr ""

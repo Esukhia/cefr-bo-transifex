@@ -1,0 +1,131 @@
+#. extracted from cefr-bo_pragmatic-thematic-development_endocx_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-20 14:10+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:2
+msgid "Thematic development"
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:7
+msgid ""
+"C2_Can use the conventions of the type of text concerned with sufficient"
+"flexibility to communicate complex ideas in an effective way, holding"
+"the target reader’s attention with ease and fulfilling all communicative"
+"purposes."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:10
+msgid ""
+"C1_Can use the conventions of the type of text concerned to hold the"
+"target reader’s attention and communicate complex ideas."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:14
+msgid ""
+"Can give elaborate descriptions and narratives, integrating sub-themes,"
+"developing particular points and rounding off with an appropriate"
+"conclusion."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:17
+msgid ""
+"Can write a suitable introduction and conclusion to a long, complex"
+"text."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:20
+msgid ""
+"Can expand and support the main points at some length with subsidiary"
+"points, reasons and relevant examples."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:23
+msgid ""
+"B2+_Can develop an argument systematically with appropriate highlighting"
+"of significant points, and relevant supporting detail."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:25
+msgid "Can present and respond to complex lines of argument convincingly."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:28
+msgid ""
+"B2_Can follow the conventional structure of the communicative task"
+"concerned when communicating their ideas."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:31
+msgid ""
+"Can develop a clear description or narrative, expanding and supporting"
+"their main points with relevant supporting detail and examples."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:34
+msgid ""
+"Can develop a clear argument, expanding and supporting their points of"
+"view at some length with subsidiary points and relevant examples."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:36
+msgid "Can evaluate the advantages and disadvantages of various options."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:38
+msgid "Can clearly signal the difference between fact and opinion."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:40
+msgid "B1+_Can clearly signal chronological sequence in narrative text."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:43
+msgid ""
+"Can develop an argument well enough to be followed without difficulty"
+"most of the time."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:46
+msgid ""
+"B1_Shows awareness of the conventional structure of the text type"
+"concerned when communicating their ideas."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:49
+msgid ""
+"Can reasonably fluently relate a straightforward narrative or"
+"description as a sequence of points."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:51
+msgid "A2+_Can tell a story or describe something in a simple list of points."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:54
+msgid ""
+"Can give an example of something in a very simple text using “like” or"
+"“for example”."
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:56
+msgid "A2_No descriptors available"
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:58
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: cefr-bo_pragmatic-thematic-development_endocx_en.txt:59
+msgid "Pre-A1_No descriptors available"
+msgstr ""

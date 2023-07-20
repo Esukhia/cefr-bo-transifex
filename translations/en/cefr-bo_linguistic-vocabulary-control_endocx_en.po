@@ -1,0 +1,63 @@
+#. extracted from cefr-bo_linguistic-vocabulary-control_endocx_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-20 14:10+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: cefr-bo_linguistic-vocabulary-control_endocx_en.txt:2
+msgid "Vocabulary control"
+msgstr ""
+
+#: cefr-bo_linguistic-vocabulary-control_endocx_en.txt:4
+msgid "C2_Consistently correct and appropriate use of vocabulary."
+msgstr ""
+
+#: cefr-bo_linguistic-vocabulary-control_endocx_en.txt:6
+msgid "C1_Uses less common vocabulary idiomatically and appropriately."
+msgstr ""
+
+#: cefr-bo_linguistic-vocabulary-control_endocx_en.txt:8
+msgid "Occasional minor slips, but no significant vocabulary errors."
+msgstr ""
+
+#: cefr-bo_linguistic-vocabulary-control_endocx_en.txt:11
+msgid ""
+"B2_Lexical accuracy is generally high, though some confusion and"
+"incorrect word/sign choice does occur without hindering communication."
+msgstr ""
+
+#: cefr-bo_linguistic-vocabulary-control_endocx_en.txt:15
+msgid ""
+"B1_Shows good control of elementary vocabulary but major errors still"
+"occur when expressing more complex thoughts or handling unfamiliar"
+"topics and situations."
+msgstr ""
+
+#: cefr-bo_linguistic-vocabulary-control_endocx_en.txt:18
+msgid ""
+"Uses a wide range of simple vocabulary appropriately when discussing"
+"familiar topics."
+msgstr ""
+
+#: cefr-bo_linguistic-vocabulary-control_endocx_en.txt:21
+msgid ""
+"A2_Can control a narrow repertoire dealing with concrete, everyday"
+"needs."
+msgstr ""
+
+#: cefr-bo_linguistic-vocabulary-control_endocx_en.txt:23
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: cefr-bo_linguistic-vocabulary-control_endocx_en.txt:24
+msgid "Pre-A1_No descriptors available"
+msgstr ""

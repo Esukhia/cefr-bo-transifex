@@ -1,0 +1,158 @@
+#. extracted from cefr-bo_overall-oral-interaction_endocx_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-20 14:10+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:2
+msgid "Overall oral interaction"
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:5
+msgid ""
+"C2_Has a good command of idiomatic expressions and colloquialisms with"
+"awareness of connotative levels of meaning."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:8
+msgid ""
+"Can convey finer shades of meaning precisely by using, with reasonable"
+"accuracy, a wide range of modification devices."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:11
+msgid ""
+"Can backtrack and restructure around a difficulty so smoothly that the"
+"interlocutor is hardly aware of it."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:14
+msgid ""
+"C1_Can express themselves fluently and spontaneously, almost"
+"effortlessly."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:19
+msgid ""
+"Has a good command of a broad lexical repertoire allowing gaps to be"
+"readily overcome with circumlocutions. smooth flow of language. There is"
+"little obvious searching for expressions or avoidance strategies; only a"
+"conceptually difficult subject can hinder a natural,"
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:23
+msgid ""
+"B2+_Can use the language fluently, accurately and effectively on a wide"
+"range of general, academic, vocational or leisure topics, marking"
+"clearly the relationships between ideas."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:27
+msgid ""
+"Can communicate spontaneously with good grammatical control without much"
+"sign of having to restrict what they want to say, adopting a level of"
+"formality appropriate to the circumstances."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:31
+msgid ""
+"B2_Can interact with a degree of fluency and spontaneity that makes"
+"regular interaction, and sustained relationships with users of the"
+"target language, quite possible without imposing strain on either party."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:35
+msgid ""
+"Can highlight the personal significance of events and experiences, and"
+"account for and sustain views clearly by providing relevant explanations"
+"and arguments."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:38
+msgid ""
+"B1+_Can communicate with some confidence on familiar routine and"
+"non-routine matters related to their interests and professional field."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:41
+msgid ""
+"Can exchange, check and confirm information, deal with less routine"
+"situations and explain why something is a problem."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:44
+msgid ""
+"Can express thoughts on more abstract, cultural topics such as films,"
+"books, music, etc."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:47
+msgid ""
+"B1_Can exploit a wide range of simple language to deal with most"
+"situations likely to arise while travelling."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:52
+msgid ""
+"Can enter unprepared into conversation on familiar topics, and express"
+"personal opinions and exchange information on topics that are familiar,"
+"of personal interest or pertinent to everyday life (e.g. family,"
+"hobbies, work, travel and current events)."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:55
+msgid ""
+"A2+_Can interact with reasonable ease in structured situations and short"
+"conversations, provided the other person helps if necessary."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:57
+msgid "Can manage simple, routine exchanges without undue effort;"
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:60
+msgid ""
+"Can ask and answer questions and exchange ideas and information on"
+"familiar topics in predictable everyday situations."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:64
+msgid ""
+"A2_Can communicate in simple and routine tasks requiring a simple and"
+"direct exchange of information on familiar and routine matters to do"
+"with work and free time."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:67
+msgid ""
+"Can handle very short social exchanges but is rarely able to understand"
+"enough to keep conversation going of their own accord."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:70
+msgid ""
+"A1_Can interact in a simple way but communication is totally dependent"
+"on repetition at a slower rate, rephrasing and repair."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:73
+msgid ""
+"Can ask and answer simple questions, initiate and respond to simple"
+"statements in areas of immediate need or on very familiar topics."
+msgstr ""
+
+#: cefr-bo_overall-oral-interaction_endocx_en.txt:76
+msgid ""
+"Pre-A1_Can ask and answer questions about themselves and daily routines,"
+"using short, formulaic expressions and relying on gestures to reinforce"
+"the information."
+msgstr ""
