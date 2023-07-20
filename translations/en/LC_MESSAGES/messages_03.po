@@ -1,9 +1,0 @@
-
-
-#: app/templates/account/register.html:8
-msgid "Create an account"
-msgstr "Create an account"
-
-#: app/templates/control_lists/contact.html:8
-msgid "Contact control lists administrators"
-msgstr "Contact control lists administrators"

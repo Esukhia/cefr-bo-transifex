@@ -1,7 +1,0 @@
-#: app/templates/control_lists/macros.html:19
-msgid "Propose changes"
-msgstr "Propose changes"
-
-#: app/templates/control_lists/macros.html:24
-msgid "Rename"
-msgstr "Rename"
