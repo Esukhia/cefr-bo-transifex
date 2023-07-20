@@ -2,16 +2,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-20 12:16+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.5.0\n"
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-20 12:16+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:2
 msgid "General linguistic range"
@@ -19,98 +19,98 @@ msgstr ""
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:7
 msgid ""
-"C2_Can exploit a comprehensive and reliable mastery of a very wide range\n"
-"of language to formulate thoughts precisely, give emphasis,\n"
-"differentiate and eliminate ambiguity. No signs of having to restrict\n"
+"C2_Can exploit a comprehensive and reliable mastery of a very wide range"
+"of language to formulate thoughts precisely, give emphasis,"
+"differentiate and eliminate ambiguity. No signs of having to restrict"
 "what they want to say."
 msgstr ""
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:10
 msgid ""
-"C1_Can use a broad range of complex grammatical structures appropriately\n"
+"C1_Can use a broad range of complex grammatical structures appropriately"
 "and with considerable flexibility."
 msgstr ""
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:14
 msgid ""
-"Can select an appropriate formulation from a broad range of language to\n"
-"express themselves clearly, without having to restrict what they want to\n"
+"Can select an appropriate formulation from a broad range of language to"
+"express themselves clearly, without having to restrict what they want to"
 "say."
 msgstr ""
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:17
 msgid ""
-"B2+_Can express themselves clearly without much sign of having to\n"
+"B2+_Can express themselves clearly without much sign of having to"
 "restrict what they want to say."
 msgstr ""
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:22
 msgid ""
-"B2_Has a sufficient range of language to be able to give clear\n"
-"descriptions, express viewpoints and develop arguments without much\n"
-"conspicuous searching for words/signs, using some complex sentence forms\n"
+"B2_Has a sufficient range of language to be able to give clear"
+"descriptions, express viewpoints and develop arguments without much"
+"conspicuous searching for words/signs, using some complex sentence forms"
 "to do so."
 msgstr ""
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:27
 msgid ""
-"B1+_Has a sufficient range of language to describe unpredictable\n"
-"situations, explain the main points in an idea or problem with\n"
-"reasonable precision and express thoughts on abstract or cultural topics\n"
+"B1+_Has a sufficient range of language to describe unpredictable"
+"situations, explain the main points in an idea or problem with"
+"reasonable precision and express thoughts on abstract or cultural topics"
 "such as music and film."
 msgstr ""
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:33
 msgid ""
-"B1_Has enough language to get by, with sufficient vocabulary to express\n"
-"themselves with some hesitation and circumlocutions on topics such as\n"
-"family, hobbies and interests, work, travel and current events, but\n"
-"lexical limitations cause repetition and even difficulty with\n"
+"B1_Has enough language to get by, with sufficient vocabulary to express"
+"themselves with some hesitation and circumlocutions on topics such as"
+"family, hobbies and interests, work, travel and current events, but"
+"lexical limitations cause repetition and even difficulty with"
 "formulation at times."
 msgstr ""
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:37
 msgid ""
-"A2+_Has a repertoire of basic language which enables them to deal with\n"
-"everyday situations with predictable content, though they will generally\n"
+"A2+_Has a repertoire of basic language which enables them to deal with"
+"everyday situations with predictable content, though they will generally"
 "have to compromise the message and search for words/signs."
 msgstr ""
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:41
 msgid ""
-"A2_Can produce brief, everyday expressions in order to satisfy simple\n"
-"needs of a concrete type (e.g. personal details, daily routines, wants\n"
+"A2_Can produce brief, everyday expressions in order to satisfy simple"
+"needs of a concrete type (e.g. personal details, daily routines, wants"
 "and needs, requests for information)."
 msgstr ""
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:45
 msgid ""
-"Can use basic sentence patterns and communicate with memorised phrases,\n"
-"groups of a few words/signs and formulae about themselves and other\n"
+"Can use basic sentence patterns and communicate with memorised phrases,"
+"groups of a few words/signs and formulae about themselves and other"
 "people, what they do, places, possessions, etc."
 msgstr ""
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:49
 msgid ""
-"Has a limited repertoire of short, memorised phrases covering\n"
-"predictable survival situations; frequent breakdowns and\n"
+"Has a limited repertoire of short, memorised phrases covering"
+"predictable survival situations; frequent breakdowns and"
 "misunderstandings occur in non-routine situations."
 msgstr ""
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:52
 msgid ""
-"A1_Has a very basic range of simple expressions about personal details\n"
+"A1_Has a very basic range of simple expressions about personal details"
 "and needs of a concrete type."
 msgstr ""
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:55
 msgid ""
-"Can use some basic structures in one-clause sentences with some omission\n"
+"Can use some basic structures in one-clause sentences with some omission"
 "or reduction of elements."
 msgstr ""
 
 #: cefr-bo_linguistic-general-linguistic-range_endocx_en.txt:57
 msgid ""
-"Pre-A1_Can use isolated words/signs and basic expressions in order to\n"
+"Pre-A1_Can use isolated words/signs and basic expressions in order to"
 "give simple information about themselves."
 msgstr ""

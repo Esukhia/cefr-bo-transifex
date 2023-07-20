@@ -2,16 +2,16 @@
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-07-20 12:27+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.5.0\n"
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-20 12:27+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
 
 #: cefr-bo_linguistic-orthographic-control_endocx_en.txt:2
 msgid "Orthographic control"
@@ -31,44 +31,44 @@ msgstr ""
 
 #: cefr-bo_linguistic-orthographic-control_endocx_en.txt:11
 msgid ""
-"B2_Can produce clearly intelligible, continuous writing which follows\n"
+"B2_Can produce clearly intelligible, continuous writing which follows"
 "standard layout and paragraphing conventions."
 msgstr ""
 
 #: cefr-bo_linguistic-orthographic-control_endocx_en.txt:14
 msgid ""
-"Spelling and punctuation are reasonably accurate but may show signs of\n"
+"Spelling and punctuation are reasonably accurate but may show signs of"
 "mother-tongue influence."
 msgstr ""
 
 #: cefr-bo_linguistic-orthographic-control_endocx_en.txt:17
 msgid ""
-"B1_Can produce continuous writing which is generally intelligible\n"
+"B1_Can produce continuous writing which is generally intelligible"
 "throughout."
 msgstr ""
 
 #: cefr-bo_linguistic-orthographic-control_endocx_en.txt:20
 msgid ""
-"Spelling, punctuation and layout are accurate enough to be followed most\n"
+"Spelling, punctuation and layout are accurate enough to be followed most"
 "of the time."
 msgstr ""
 
 #: cefr-bo_linguistic-orthographic-control_endocx_en.txt:23
 msgid ""
-"A2_Can copy short sentences on everyday subjects, e.g. directions on how\n"
+"A2_Can copy short sentences on everyday subjects, e.g. directions on how"
 "to get somewhere."
 msgstr ""
 
 #: cefr-bo_linguistic-orthographic-control_endocx_en.txt:26
 msgid ""
-"Can write with reasonable phonetic accuracy (but not necessarily fully\n"
+"Can write with reasonable phonetic accuracy (but not necessarily fully"
 "standard spelling) short words that are in their oral vocabulary."
 msgstr ""
 
 #: cefr-bo_linguistic-orthographic-control_endocx_en.txt:30
 msgid ""
-"A1_Can copy familiar words and short phrases, e.g. simple signs or\n"
-"instructions, names of everyday objects, names of shops, and set phrases\n"
+"A1_Can copy familiar words and short phrases, e.g. simple signs or"
+"instructions, names of everyday objects, names of shops, and set phrases"
 "used regularly."
 msgstr ""
 
