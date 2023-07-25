@@ -1,0 +1,95 @@
+#. extracted from oral-interviewing_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:31+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: oral-interviewing_en.txt:2
+msgid "Interviewing and being interviewed"
+msgstr ""
+
+#: oral-interviewing_en.txt:4
+msgid ""
+"C2_Can keep up their side of the dialogue extremely well, structuring the "
+"discourse and interacting authoritatively with effortless fluency as "
+"interviewer or interviewee, at no disadvantage to other participants."
+msgstr ""
+
+#: oral-interviewing_en.txt:6
+msgid ""
+"C1_Can participate fully in an interview, as either interviewer or "
+"interviewee, expanding and developing the point being discussed fluently "
+"without any support, and handling interjections well."
+msgstr ""
+
+#: oral-interviewing_en.txt:8
+msgid ""
+"B2+_Can carry out an effective, fluent interview, departing spontaneously "
+"from prepared questions, following up and probing interesting replies."
+msgstr ""
+
+#: oral-interviewing_en.txt:10
+msgid ""
+"B2_Can take the initiative in an interview, and expand and develop ideas "
+"with little help or prodding from an interviewer."
+msgstr ""
+
+#: oral-interviewing_en.txt:13
+msgid ""
+"B1+_Can provide concrete information required in an interview/consultation ("
+"e.g. describe symptoms to a doctor), but with limited precision."
+"Can carry out a prepared interview, checking and confirming information, "
+"though they may occasionally have to ask for repetition if the other person’"
+"s response is rapid or extended."
+msgstr ""
+
+#: oral-interviewing_en.txt:18
+msgid ""
+"B1_Can take some initiative in an interview/consultation (e.g. to bring up a "
+"new subject) but is very dependent on the interviewer in the interaction."
+"Can describe symptoms in a simple way and ask for advice when using health "
+"services, and can understand the answer, provided this is given clearly in "
+"everyday language."
+"Can use a prepared questionnaire to carry out a structured interview, with "
+"some spontaneous follow-up questions."
+msgstr ""
+
+#: oral-interviewing_en.txt:21
+msgid ""
+"A2+_Can make themselves understood in an interview and communicate ideas and "
+"information on familiar topics, provided they can ask for clarification "
+"occasionally, and are given some help to express what they want to."
+"Can describe to a doctor very basic symptoms and ailments such as a cold or "
+"the flu."
+msgstr ""
+
+#: oral-interviewing_en.txt:24
+msgid ""
+"A2_Can answer simple questions and respond to simple statements in an "
+"interview."
+"Can indicate in simple language the nature of a problem to a health "
+"professional, perhaps using gestures and body language."
+msgstr ""
+
+#: oral-interviewing_en.txt:27
+msgid ""
+"A1_Can reply in an interview to simple direct questions, put very slowly and "
+"clearly in direct, non-idiomatic language, about personal details."
+"Can state in simple language the nature of a problem to a health "
+"professional and answer simple questions such as “Does that hurt?” even "
+"though they have to rely on gestures and body language to reinforce the "
+"message."
+msgstr ""
+
+#: oral-interviewing_en.txt:28
+msgid "Pre-A1_No descriptors available"
+msgstr ""

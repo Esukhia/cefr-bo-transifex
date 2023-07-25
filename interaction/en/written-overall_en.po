@@ -1,0 +1,67 @@
+#. extracted from written-overall_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:31+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: written-overall_en.txt:2
+msgid "Overall written interaction"
+msgstr ""
+
+#: written-overall_en.txt:4
+msgid ""
+"C2_Can express themselves in an appropriate tone and style in virtually any "
+"type of formal and informal interaction."
+msgstr ""
+
+#: written-overall_en.txt:6
+msgid ""
+"C1_Can express themselves with clarity and precision, relating to the "
+"addressee flexibly and effectively."
+msgstr ""
+
+#: written-overall_en.txt:8
+msgid ""
+"B2_Can express news and views effectively in writing, and relate to those of "
+"others."
+msgstr ""
+
+#: written-overall_en.txt:10
+msgid ""
+"B1+_Can convey information and ideas on abstract as well as concrete topics, "
+"check information, and ask about or explain problems with reasonable "
+"precision."
+msgstr ""
+
+#: written-overall_en.txt:12
+msgid ""
+"B1_Can compose personal letters and notes asking for or conveying simple "
+"information of immediate relevance, getting across the point they feel to be "
+"important."
+msgstr ""
+
+#: written-overall_en.txt:14
+msgid ""
+"A2_Can compose short, simple formulaic notes relating to matters in areas of "
+"immediate need."
+msgstr ""
+
+#: written-overall_en.txt:16
+msgid "A1_Can ask for or pass on personal details."
+msgstr ""
+
+#: written-overall_en.txt:18
+msgid ""
+"Pre-A1_Can convey basic information (e.g. name, address, family) in short "
+"phrases on a form or in a note, with the "
+"use of a dictionary."
+msgstr ""

@@ -1,0 +1,73 @@
+#. extracted from strategies-co-operating_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:31+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: strategies-co-operating_en.txt:2
+msgid "Co-operating"
+msgstr ""
+
+#: strategies-co-operating_en.txt:4
+msgid ""
+"C2_Can link contributions skilfully to those of others, widen the scope of "
+"the interaction and help steer it towards an outcome."
+msgstr ""
+
+#: strategies-co-operating_en.txt:6
+msgid "C1_Can relate own contribution skilfully to that of others."
+msgstr ""
+
+#: strategies-co-operating_en.txt:10
+msgid ""
+"B2+_Can give feedback on and follow up statements and inferences and so help "
+"the development of the discussion."
+"Can summarise and evaluate the main points of discussion on matters within "
+"their academic or professional competence."
+"The CEFR Illustrative Descriptor Scales: communicative language activities "
+"and strategies Page 89Co-operating"
+msgstr ""
+
+#: strategies-co-operating_en.txt:13
+msgid ""
+"B2_Can help the discussion along on familiar ground, confirming "
+"comprehension, inviting others in, etc."
+"Can summarise the point reached at a particular stage in a discussion and "
+"propose the next steps."
+msgstr ""
+
+#: strategies-co-operating_en.txt:16
+msgid ""
+"B1+_Can exploit a basic repertoire of language and strategies to help keep a "
+"conversation or discussion going."
+"Can summarise the point reached in a discussion and so help focus the "
+"argument."
+msgstr ""
+
+#: strategies-co-operating_en.txt:19
+msgid ""
+"B1_Can repeat back part of what someone has said to confirm mutual "
+"understanding and help keep the development of ideas on course."
+"Can invite others into the discussion."
+msgstr ""
+
+#: strategies-co-operating_en.txt:21
+msgid "A2_Can indicate when they are following."
+msgstr ""
+
+#: strategies-co-operating_en.txt:23
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: strategies-co-operating_en.txt:24
+msgid "Pre-A1_No descriptors available"
+msgstr ""

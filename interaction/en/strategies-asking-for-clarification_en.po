@@ -1,0 +1,76 @@
+#. extracted from strategies-asking-for-clarification_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:31+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: strategies-asking-for-clarification_en.txt:2
+msgid "Asking for clarification"
+msgstr ""
+
+#: strategies-asking-for-clarification_en.txt:4
+msgid "C2_No descriptors available; see C1"
+msgstr ""
+
+#: strategies-asking-for-clarification_en.txt:6
+msgid ""
+"C1_Can ask for explanation or clarification to ensure they understand "
+"complex, abstract ideas in professional or academic contexts, live or online."
+msgstr ""
+
+#: strategies-asking-for-clarification_en.txt:8
+msgid ""
+"B2+_Can ask follow-up questions to check that they have understood what "
+"someone intended to say, and get clarification of ambiguous points."
+msgstr ""
+
+#: strategies-asking-for-clarification_en.txt:11
+msgid ""
+"B2_Can ask for explanation or clarification to ensure they understand "
+"complex, abstract ideas."
+"Can formulate follow-up questions to a member of a group to clarify an issue "
+"that is implicit or poorly articulated."
+msgstr ""
+
+#: strategies-asking-for-clarification_en.txt:13
+msgid ""
+"B1+_Can ask for further details and clarifications from other group members "
+"in order to move a discussion forward."
+msgstr ""
+
+#: strategies-asking-for-clarification_en.txt:15
+msgid "B1_Can ask someone to clarify or elaborate what they have just said."
+msgstr ""
+
+#: strategies-asking-for-clarification_en.txt:18
+msgid ""
+"A2+_Can ask very simply for repetition when they do not understand."
+"Can ask for clarification about key words/signs or phrases not understood, "
+"using stock phrases."
+msgstr ""
+
+#: strategies-asking-for-clarification_en.txt:21
+msgid ""
+"A2_Can indicate that they did not follow."
+"Can signal non-understanding and ask for a word/sign to be spelt out."
+msgstr ""
+
+#: strategies-asking-for-clarification_en.txt:24
+msgid ""
+"A1_Can indicate with simple words/signs, intonation and gestures that they "
+"do not understand."
+"Can express in a simple way that they do not understand."
+msgstr ""
+
+#: strategies-asking-for-clarification_en.txt:25
+msgid "Pre-A1_No descriptors available"
+msgstr ""

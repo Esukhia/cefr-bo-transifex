@@ -1,0 +1,88 @@
+#. extracted from oral-goal-oriented-co-operation-en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:31+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: oral-goal-oriented-co-operation-en.txt:2
+msgid ""
+"Goal-oriented co-operation (cooking together, discussing a document, "
+"organising an event, etc.)"
+msgstr ""
+
+#: oral-goal-oriented-co-operation-en.txt:4
+msgid "C2_No descriptors available; see C1"
+msgstr ""
+
+#: oral-goal-oriented-co-operation-en.txt:6
+msgid ""
+"C1_Can frame a discussion to decide on a course of action with a partner or "
+"group, reporting on what others have said, and summarising, elaborating and "
+"weighing up multiple points of view."
+msgstr ""
+
+#: oral-goal-oriented-co-operation-en.txt:10
+msgid ""
+"B2_Can understand detailed instructions reliably."
+"Can help along the progress of the work by inviting others to join in, "
+"express what they think, etc."
+"Can outline an issue or a problem clearly, speculating about causes or "
+"consequences, and weighing advantages and disadvantages of different "
+"approaches."
+msgstr ""
+
+#: oral-goal-oriented-co-operation-en.txt:14
+msgid ""
+"B1+_Can follow what is said, though they may occasionally have to ask for "
+"repetition or clarification if the discussion is rapid or extended."
+"Can explain why something is a problem, discuss what to do next, and compare "
+"and contrast alternatives."
+"Can give brief comments on the views of others."
+msgstr ""
+
+#: oral-goal-oriented-co-operation-en.txt:18
+msgid ""
+"B1_Can generally follow what is said and, when necessary, repeat back part "
+"of what someone has said to confirm mutual understanding."
+"Can make their opinions and reactions understood as regards possible "
+"solutions or the question of what to do next, giving brief reasons and "
+"explanations."
+"Can invite others to give their views on how to proceed."
+msgstr ""
+
+#: oral-goal-oriented-co-operation-en.txt:21
+msgid ""
+"A2+_Can understand enough to manage simple, routine tasks without undue "
+"effort, asking very simply for repetition when they do not understand."
+"Can discuss what to do next, making and responding to suggestions, and "
+"asking for and giving directions."
+msgstr ""
+
+#: oral-goal-oriented-co-operation-en.txt:24
+msgid ""
+"A2_Can indicate when they are following and can be made to understand what "
+"is necessary, if the interlocutor takes the trouble."
+"Can communicate in simple and routine tasks using simple phrases to ask for "
+"and provide things, to get simple information and to discuss what to do next."
+msgstr ""
+
+#: oral-goal-oriented-co-operation-en.txt:28
+msgid ""
+"A1_Can understand questions and instructions addressed carefully and slowly "
+"to them and follow short, simple directions."
+"Can act on basic instructions that involve times, locations, numbers, etc."
+"Can ask people for things, and give people things."
+msgstr ""
+
+#: oral-goal-oriented-co-operation-en.txt:29
+msgid "Pre-A1_No descriptors available"
+msgstr ""

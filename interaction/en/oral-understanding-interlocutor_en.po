@@ -1,0 +1,85 @@
+#. extracted from oral-understanding-interlocutor_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:31+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: oral-understanding-interlocutor_en.txt:2
+msgid "Understanding an interlocutor"
+msgstr ""
+
+#: oral-understanding-interlocutor_en.txt:4
+msgid ""
+"C2_Can understand any interlocutor, even on abstract and complex topics of a "
+"specialist nature beyond their own field, given an opportunity to adjust to "
+"a less familiar variety."
+msgstr ""
+
+#: oral-understanding-interlocutor_en.txt:7
+msgid ""
+"C1_Can understand an interlocutor in detail on abstract and complex topics "
+"of a specialist nature beyond their "
+"own field, though they may need to confirm occasional details, especially if "
+"the variety is unfamiliar."
+msgstr ""
+
+#: oral-understanding-interlocutor_en.txt:9
+msgid ""
+"B2_Can understand in detail what is said to them in the standard language or "
+"a familiar variety even in a [audially/visually] noisy environment."
+msgstr ""
+
+#: oral-understanding-interlocutor_en.txt:12
+msgid ""
+"B1_Can follow clearly articulated speech/sign directed at them in everyday "
+"conversation, though will "
+"sometimes have to ask for repetition of particular words/signs and phrases."
+msgstr ""
+
+#: oral-understanding-interlocutor_en.txt:15
+msgid ""
+"A2+_Can understand enough to manage simple, routine exchanges without undue "
+"effort."
+"Can generally understand clear, standard speech/sign on familiar matters "
+"directed at them, provided they can ask for repetition or reformulation from "
+"time to time."
+msgstr ""
+
+#: oral-understanding-interlocutor_en.txt:18
+msgid ""
+"A2_Can understand what is said clearly, slowly and directly to them in "
+"simple everyday conversation; can be "
+"made to understand, if the interlocutor can take the trouble."
+msgstr ""
+
+#: oral-understanding-interlocutor_en.txt:22
+msgid ""
+"A1_Can understand everyday expressions aimed at the satisfaction of simple "
+"needs of a concrete type, delivered directly to them clearly and slowly, "
+"with repetition, by a sympathetic interlocutor."
+"Can understand questions and instructions addressed carefully and slowly to "
+"them and follow short, "
+"simple directions."
+msgstr ""
+
+#: oral-understanding-interlocutor_en.txt:25
+msgid ""
+"Pre-A1_Can understand simple questions that directly concern them (e.g. "
+"name, age and address), if the person is asking slowly and clearly."
+"Can understand simple personal information (e.g. name, age, place of "
+"residence, origin) when other people introduce themselves slowly and "
+"clearly, directly to them, and can understand questions on this theme "
+"addressed to them, though the questions may need to be repeated."
+"Can understand a number of familiar words/signs and recognise key "
+"information (e.g. numbers, prices, dates and days of the week), provided the "
+"delivery is very slow, with repetition if necessary."
+msgstr ""

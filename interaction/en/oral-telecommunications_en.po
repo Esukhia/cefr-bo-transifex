@@ -1,0 +1,85 @@
+#. extracted from oral-telecommunications_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:31+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: oral-telecommunications_en.txt:2
+msgid "Using telecommunications"
+msgstr ""
+
+#: oral-telecommunications_en.txt:5
+msgid ""
+"C2_Can use telecommunications confidently and effectively for both personal "
+"and professional purposes, even "
+"if there is some interference (noise) or the caller has a less familiar "
+"accent."
+msgstr ""
+
+#: oral-telecommunications_en.txt:7
+msgid ""
+"C1_Can use telecommunications effectively for most professional or personal "
+"purposes."
+msgstr ""
+
+#: oral-telecommunications_en.txt:11
+msgid ""
+"B2_Can use telecommunications for a variety of personal and professional "
+"purposes, provided they can ask for clarification if the accent or "
+"terminology is unfamiliar."
+"Can participate in extended casual conversation over the phone with a known "
+"person on a variety of "
+"topics."
+msgstr ""
+
+#: oral-telecommunications_en.txt:14
+msgid ""
+"B1+_Can use telecommunications for everyday personal or professional "
+"purposes, provided they can ask for clarification from time to time."
+"Can give important details over the (video)phone concerning an unexpected "
+"incident (e.g. a problem in a hotel, with travel arrangements, with a hire "
+"car)."
+msgstr ""
+
+#: oral-telecommunications_en.txt:18
+msgid ""
+"B1_Can use telecommunications to have relatively simple but extended "
+"conversations with people they know "
+"personally."
+"Can use telecommunications for routine messages (e.g. arrangements for a "
+"meeting) and to obtain basic services (e.g. book a hotel room or make a "
+"medical appointment)."
+msgstr ""
+
+#: oral-telecommunications_en.txt:20
+msgid ""
+"A2+_Can use telecommunications with their friends to exchange simple news, "
+"make plans and arrange to meet."
+msgstr ""
+
+#: oral-telecommunications_en.txt:25
+msgid ""
+"A2_Can, given repetition and clarifications, participate in a short, simple "
+"phone conversation with a known "
+"person on a predictable topic, e.g. arrival times, arrangements to meet."
+"Can understand a simple message (e.g. “My flight is late. I will arrive at "
+"10 o’clock.”), confirm details of the "
+"message and pass it on by phone to other people concerned."
+msgstr ""
+
+#: oral-telecommunications_en.txt:27
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: oral-telecommunications_en.txt:28
+msgid "Pre-A1_No descriptors available"
+msgstr ""
