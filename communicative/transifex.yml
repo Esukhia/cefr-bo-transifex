@@ -4,5 +4,5 @@ git:
       file_format: PO
       source_file_extension: po
       source_language: en
-      source_file_dir: translations/en
-      translation_files_expression: 'translations/<lang>'
+      source_file_dir: communicative/en
+      translation_files_expression: 'communicative/<lang>'

@@ -1,0 +1,65 @@
+#. extracted from linguistic-orthographic-control_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:16+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: linguistic-orthographic-control_en.txt:2
+msgid "Orthographic control"
+msgstr ""
+
+#: linguistic-orthographic-control_en.txt:5
+msgid "C2_Writing is orthographically free of error."
+msgstr ""
+
+#: linguistic-orthographic-control_en.txt:8
+msgid ""
+"C1_Layout, paragraphing and punctuation are consistent and helpful."
+"Spelling is accurate, apart from occasional slips of the pen."
+msgstr ""
+
+#: linguistic-orthographic-control_en.txt:11
+msgid ""
+"B2_Can produce clearly intelligible, continuous writing which follows "
+"standard layout and paragraphing conventions."
+"Spelling and punctuation are reasonably accurate but may show signs of "
+"mother-tongue influence."
+msgstr ""
+
+#: linguistic-orthographic-control_en.txt:14
+msgid ""
+"B1_Can produce continuous writing which is generally intelligible throughout."
+""
+"Spelling, punctuation and layout are accurate enough to be followed most of "
+"the time."
+msgstr ""
+
+#: linguistic-orthographic-control_en.txt:17
+msgid ""
+"A2_Can copy short sentences on everyday subjects, e.g. directions on how to "
+"get somewhere."
+"Can write with reasonable phonetic accuracy (but not necessarily fully "
+"standard spelling) short words that are in their oral vocabulary."
+msgstr ""
+
+#: linguistic-orthographic-control_en.txt:21
+msgid ""
+"A1_Can copy familiar words and short phrases, e.g. simple signs or "
+"instructions, names of everyday objects, names of shops, and set phrases "
+"used regularly."
+"Can spell their address, nationality and other personal details."
+"Can use basic punctuation (e.g. full stops, question marks)."
+msgstr ""
+
+#: linguistic-orthographic-control_en.txt:22
+msgid "Pre-A1_No descriptors available"
+msgstr ""

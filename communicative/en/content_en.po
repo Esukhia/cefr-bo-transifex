@@ -1,0 +1,116 @@
+#. extracted from content_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:16+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: content_en.txt:3
+msgid ""
+"སྐད་ཡིག་འབྲེལ་ལམ་གྱི་འཇོན་ནུས།"
+"Communicative language competences"
+msgstr ""
+
+#: content_en.txt:6
+msgid ""
+"སྐད་བརྡའི་འཇོན་ནུས།"
+"Linguistic competence"
+msgstr ""
+
+#: content_en.txt:9
+msgid ""
+"སྤྱི་ཡོངས་ཀྱི་སྐད་བརྡའི་ཁྱབ་ཚད།"
+"General linguistic range"
+msgstr ""
+
+#: content_en.txt:12
+msgid ""
+"མིང་ཚིག་གམ་ཚིག་གསར་མང་ཉུང་།"
+"Vocabulary range"
+msgstr ""
+
+#: content_en.txt:15
+msgid ""
+"བརྡ་སྤྲོད་འཁྲུལ་བྲལ།"
+"Grammatical accuracy"
+msgstr ""
+
+#: content_en.txt:18
+msgid ""
+"མིང་ཚིག་སྟངས་འཛིན།"
+"Vocabulary control"
+msgstr ""
+
+#: content_en.txt:21
+msgid ""
+"སྒྲ་གདངས་སྟངས་འཛིན་བྱེད་སྟངས།"
+"Phonological control"
+msgstr ""
+
+#: content_en.txt:24
+msgid ""
+"དག་ཆ་སྟངས་འཛིན།"
+"Orthographic control"
+msgstr ""
+
+#: content_en.txt:27
+msgid ""
+"སྤྱི་ཚོགས་སྐད་བརྡའི་འཇོན་ནུས།"
+"Sociolinguistic competence"
+msgstr ""
+
+#: content_en.txt:30
+msgid ""
+"བཟང་སྤྱོད་སྐད་བརྡ།"
+"Sociolinguistic appropriateness"
+msgstr ""
+
+#: content_en.txt:33
+msgid ""
+"དོན་དངོས་ལག་ལེན་གྱི་ཐབས་ལམ།"
+"Pragmatic competence"
+msgstr ""
+
+#: content_en.txt:36
+msgid ""
+"སྐབས་བསྟུན་་གྱི་འགྱུར་བ།"
+"Flexibility"
+msgstr ""
+
+#: content_en.txt:39
+msgid ""
+"རེས་མོས་བྱེད་པ།"
+"Turn Taking"
+msgstr ""
+
+#: content_en.txt:42
+msgid ""
+"ནང་དོན་སྔ་ཕྱི་གོ་རིམ་བཞིན་གསལ་སྟོན།"
+"Thematic development"
+msgstr ""
+
+#: content_en.txt:45
+msgid ""
+"ཚིག་དང་དོན་སྔ་ཕྱི་འབྲེལ་ཆགས་པ།"
+"Coherence and cohesion"
+msgstr ""
+
+#: content_en.txt:48
+msgid ""
+"འཁྲུལ་མེད།"
+"Propositional precision"
+msgstr ""
+
+#: content_en.txt:50
+msgid ""
+"བྱང་རྩལ།"
+"Fluency "
+msgstr ""

@@ -1,0 +1,91 @@
+#. extracted from pragmatic-thematic-development_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:16+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: pragmatic-thematic-development_en.txt:2
+msgid "Thematic development"
+msgstr ""
+
+#: pragmatic-thematic-development_en.txt:4
+msgid ""
+"C2_Can use the conventions of the type of text concerned with sufficient "
+"flexibility to communicate complex ideas in an effective way, holding the "
+"target reader’s attention with ease and fulfilling all communicative "
+"purposes."
+msgstr ""
+
+#: pragmatic-thematic-development_en.txt:9
+msgid ""
+"C1_Can use the conventions of the type of text concerned to hold the target "
+"reader’s attention and communicate complex ideas."
+"Can give elaborate descriptions and narratives, integrating sub-themes, "
+"developing particular points and rounding off with an appropriate conclusion."
+""
+"Can write a suitable introduction and conclusion to a long, complex text."
+"Can expand and support the main points at some length with subsidiary "
+"points, reasons and relevant examples."
+msgstr ""
+
+#: pragmatic-thematic-development_en.txt:12
+msgid ""
+"B2+_Can develop an argument systematically with appropriate highlighting of "
+"significant points, and relevant supporting detail."
+"Can present and respond to complex lines of argument convincingly."
+msgstr ""
+
+#: pragmatic-thematic-development_en.txt:18
+msgid ""
+"B2_Can follow the conventional structure of the communicative task concerned "
+"when communicating their ideas."
+"Can develop a clear description or narrative, expanding and supporting their "
+"main points with relevant supporting detail and examples."
+"Can develop a clear argument, expanding and supporting their points of view "
+"at some length with subsidiary points and relevant examples."
+"Can evaluate the advantages and disadvantages of various options."
+"Can clearly signal the difference between fact and opinion."
+msgstr ""
+
+#: pragmatic-thematic-development_en.txt:21
+msgid ""
+"B1+_Can clearly signal chronological sequence in narrative text."
+"Can develop an argument well enough to be followed without difficulty most "
+"of the time."
+msgstr ""
+
+#: pragmatic-thematic-development_en.txt:24
+msgid ""
+"B1_Shows awareness of the conventional structure of the text type concerned "
+"when communicating their ideas."
+"Can reasonably fluently relate a straightforward narrative or description as "
+"a sequence of points."
+msgstr ""
+
+#: pragmatic-thematic-development_en.txt:27
+msgid ""
+"A2+_Can tell a story or describe something in a simple list of points."
+"Can give an example of something in a very simple text using “like” or “for "
+"example”."
+msgstr ""
+
+#: pragmatic-thematic-development_en.txt:29
+msgid "A2_No descriptors available"
+msgstr ""
+
+#: pragmatic-thematic-development_en.txt:31
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: pragmatic-thematic-development_en.txt:32
+msgid "Pre-A1_No descriptors available"
+msgstr ""

@@ -1,0 +1,72 @@
+#. extracted from pragmatic-flexibility_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:16+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: pragmatic-flexibility_en.txt:2
+msgid "Flexibility"
+msgstr ""
+
+#: pragmatic-flexibility_en.txt:4
+msgid ""
+"C2_Shows great flexibility in reformulating ideas in differing linguistic "
+"forms to give emphasis, differentiate according to the situation, "
+"interlocutor, etc. and to eliminate ambiguity."
+msgstr ""
+
+#: pragmatic-flexibility_en.txt:7
+msgid ""
+"C1_Can make a positive impact on an intended audience by effectively varying "
+"style of expression and sentence length, use of advanced vocabulary and word "
+"order."
+"Can modify their expression to express degrees of commitment or hesitation, "
+"confidence or uncertainty."
+msgstr ""
+
+#: pragmatic-flexibility_en.txt:9
+msgid ""
+"B2+_Can adjust what they say and the means of expressing it to the situation "
+"and the recipient and adopt a level of formality appropriate to the "
+"circumstances."
+msgstr ""
+
+#: pragmatic-flexibility_en.txt:13
+msgid ""
+"B2_Can adjust to the changes of direction, style and emphasis normally found "
+"in conversation."
+"Can vary formulation of what they want to say."
+"Can reformulate an idea to emphasise or explain a point."
+msgstr ""
+
+#: pragmatic-flexibility_en.txt:16
+msgid ""
+"B1_Can adapt their expression to deal with less routine, even difficult, "
+"situations."
+"Can exploit a wide range of simple language flexibly to express much of what "
+"they want."
+msgstr ""
+
+#: pragmatic-flexibility_en.txt:19
+msgid ""
+"A2_Can adapt well-rehearsed, memorised, simple phrases to particular "
+"circumstances through limited lexical substitution."
+"Can expand learnt phrases through simple recombinations of their elements."
+msgstr ""
+
+#: pragmatic-flexibility_en.txt:21
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: pragmatic-flexibility_en.txt:22
+msgid "Pre-A1_No descriptors available"
+msgstr ""

@@ -1,0 +1,73 @@
+#. extracted from pragmatic-turntaking_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:16+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: pragmatic-turntaking_en.txt:2
+msgid "Turntaking"
+msgstr ""
+
+#: pragmatic-turntaking_en.txt:4
+msgid "C2_No descriptors available; see C1"
+msgstr ""
+
+#: pragmatic-turntaking_en.txt:6
+msgid ""
+"C1_Can select a suitable phrase from a readily available range of discourse "
+"functions to preface their remarks appropriately in order to get the floor, "
+"or to gain time and keep the floor whilst thinking."
+msgstr ""
+
+#: pragmatic-turntaking_en.txt:11
+msgid ""
+"B2_Can intervene appropriately in discussion, exploiting appropriate "
+"language to do so."
+"Can initiate, maintain and end discourse appropriately with effective "
+"turntaking."
+"Can initiate discourse, take their turn when appropriate and end "
+"conversation when they need to, though they may not always do this elegantly."
+""
+"Can use stock phrases (e.g. “That’s a difficult question to answer”) to gain "
+"time and keep the turn whilst formulating what they want to express."
+msgstr ""
+
+#: pragmatic-turntaking_en.txt:13
+msgid ""
+"B1+_Can intervene in a discussion on a familiar topic, using a suitable "
+"phrase to get the floor."
+msgstr ""
+
+#: pragmatic-turntaking_en.txt:15
+msgid ""
+"B1_Can initiate, maintain and close simple face-to-face conversation on "
+"topics that are familiar or of personal interest."
+msgstr ""
+
+#: pragmatic-turntaking_en.txt:18
+msgid ""
+"A2+_Can use simple techniques to start, maintain or close a short "
+"conversation."
+"Can initiate, maintain and close simple, face-to-face conversation."
+msgstr ""
+
+#: pragmatic-turntaking_en.txt:20
+msgid "A2_Can ask for attention."
+msgstr ""
+
+#: pragmatic-turntaking_en.txt:22
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: pragmatic-turntaking_en.txt:23
+msgid "Pre-A1_No descriptors available"
+msgstr ""

@@ -1,0 +1,56 @@
+#. extracted from linquistic-vocabulary-control_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:16+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: linquistic-vocabulary-control_en.txt:2
+msgid "Vocabulary control"
+msgstr ""
+
+#: linquistic-vocabulary-control_en.txt:5
+msgid "C2_Consistently correct and appropriate use of vocabulary."
+msgstr ""
+
+#: linquistic-vocabulary-control_en.txt:8
+msgid ""
+"C1_Uses less common vocabulary idiomatically and appropriately."
+"Occasional minor slips, but no significant vocabulary errors."
+msgstr ""
+
+#: linquistic-vocabulary-control_en.txt:10
+msgid ""
+"B2_Lexical accuracy is generally high, though some confusion and incorrect "
+"word/sign choice does occur without hindering communication."
+msgstr ""
+
+#: linquistic-vocabulary-control_en.txt:13
+msgid ""
+"B1_Shows good control of elementary vocabulary but major errors still occur "
+"when expressing more complex thoughts or handling unfamiliar topics and "
+"situations."
+"Uses a wide range of simple vocabulary appropriately when discussing "
+"familiar topics."
+msgstr ""
+
+#: linquistic-vocabulary-control_en.txt:15
+msgid ""
+"A2_Can control a narrow repertoire dealing with concrete, everyday needs."
+msgstr ""
+
+#: linquistic-vocabulary-control_en.txt:17
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: linquistic-vocabulary-control_en.txt:18
+msgid "Pre-A1_No descriptors available"
+msgstr ""

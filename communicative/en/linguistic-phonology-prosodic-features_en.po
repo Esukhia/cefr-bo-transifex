@@ -1,0 +1,65 @@
+#. extracted from linguistic-phonology-prosodic-features_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:16+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: linguistic-phonology-prosodic-features_en.txt:2
+msgid "Prosodic features "
+msgstr ""
+
+#: linguistic-phonology-prosodic-features_en.txt:4
+msgid ""
+"C2_Can exploit prosodic features (e.g. stress, rhythm and intonation) "
+"appropriately and effectively in order to convey finer shades of meaning ("
+"e.g. to differentiate and emphasise)."
+msgstr ""
+
+#: linguistic-phonology-prosodic-features_en.txt:7
+msgid ""
+"C1_Can produce smooth, intelligible spoken discourse with only occasional "
+"lapses in control of stress, rhythm and/or intonation, which do not affect "
+"intelligibility or effectiveness."
+"Can vary intonation and place stress correctly in order to express precisely "
+"what they mean to say."
+msgstr ""
+
+#: linguistic-phonology-prosodic-features_en.txt:9
+msgid ""
+"B2_Can employ prosodic features (e.g. stress, intonation, rhythm) to support "
+"the message they intend to convey, though with some influence from the other "
+"languages they speak."
+msgstr ""
+
+#: linguistic-phonology-prosodic-features_en.txt:11
+msgid ""
+"B1_Can convey their message in an intelligible way in spite of a strong "
+"influence on stress, intonation and/or rhythm from the other language(s) "
+"they speak."
+msgstr ""
+
+#: linguistic-phonology-prosodic-features_en.txt:14
+msgid ""
+"A2_Can use the prosodic features of everyday words and phrases intelligibly, "
+"in spite of a strong influence on stress, intonation and/or rhythm from the "
+"other language(s) they speak."
+"Prosodic features (e.g. word stress) are adequate for familiar everyday "
+"words and simple utterances."
+msgstr ""
+
+#: linguistic-phonology-prosodic-features_en.txt:15
+msgid ""
+"A1_Can use the prosodic features of a limited repertoire of simple words and "
+"phrases intelligibly, in spite of a very strong influence on stress, rhythm "
+"and/or intonation from the other language(s) they speak; their interlocutor "
+"needs to be collaborative."
+msgstr ""

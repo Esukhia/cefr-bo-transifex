@@ -1,0 +1,79 @@
+#. extracted from linguistic-grammatical-accuracy_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:16+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: linguistic-grammatical-accuracy_en.txt:2
+msgid "Grammatical accuracy"
+msgstr ""
+
+#: linguistic-grammatical-accuracy_en.txt:4
+msgid ""
+"C2_Maintains consistent grammatical control of complex language, even while "
+"attention is otherwise engaged (e.g. in forward planning, in monitoring "
+"others’ reactions)."
+msgstr ""
+
+#: linguistic-grammatical-accuracy_en.txt:6
+msgid ""
+"C1_Consistently maintains a high degree of grammatical accuracy; errors are "
+"rare and difficult to spot."
+msgstr ""
+
+#: linguistic-grammatical-accuracy_en.txt:8
+msgid ""
+"B2+_Good grammatical control; occasional “slips” or non-systematic errors "
+"and minor flaws in sentence structure may still occur, but they are rare and "
+"can often be corrected in retrospect."
+msgstr ""
+
+#: linguistic-grammatical-accuracy_en.txt:11
+msgid ""
+"B2_Shows a relatively high degree of grammatical control. Does not make "
+"mistakes which lead to misunderstanding."
+"Has a good command of simple language structures and some complex "
+"grammatical forms, although they tend to use complex structures rigidly with "
+"some inaccuracy."
+msgstr ""
+
+#: linguistic-grammatical-accuracy_en.txt:13
+msgid ""
+"B1+_Communicates with reasonable accuracy in familiar contexts; generally "
+"good control, though with noticeable mother-tongue influence. Errors occur, "
+"but it is clear what they are trying to express."
+msgstr ""
+
+#: linguistic-grammatical-accuracy_en.txt:15
+msgid ""
+"B1_Uses reasonably accurately a repertoire of frequently used “routines” and "
+"patterns associated with more predictable situations."
+msgstr ""
+
+#: linguistic-grammatical-accuracy_en.txt:17
+msgid ""
+"A2_Uses some simple structures correctly, but still systematically makes "
+"basic mistakes; nevertheless, it is usually clear what they are trying to "
+"say."
+msgstr ""
+
+#: linguistic-grammatical-accuracy_en.txt:19
+msgid ""
+"A1_Shows only limited control of a few simple grammatical structures and "
+"sentence patterns in a learnt repertoire."
+msgstr ""
+
+#: linguistic-grammatical-accuracy_en.txt:20
+msgid ""
+"Pre-A1_Can employ very simple principles of word/sign order in short "
+"statements."
+msgstr ""
