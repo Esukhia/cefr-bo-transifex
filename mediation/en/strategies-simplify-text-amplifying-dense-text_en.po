@@ -1,0 +1,73 @@
+#. extracted from strategies-simplify-text-amplifying-dense-text_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:39+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: strategies-simplify-text-amplifying-dense-text_en.txt:2
+msgid "Amplifying a dense text"
+msgstr ""
+
+#: strategies-simplify-text-amplifying-dense-text_en.txt:4
+msgid ""
+"C2_Can elucidate the information given in texts on complex academic or "
+"professional topics by elaborating and providing examples."
+msgstr ""
+
+#: strategies-simplify-text-amplifying-dense-text_en.txt:7
+msgid ""
+"C1_Can make complex, challenging content more accessible by explaining "
+"difficult aspects more explicitly and adding helpful detail."
+"Can make the main points contained in a complex text more accessible to the "
+"target audience by adding redundancy, explaining, and modifying style and "
+"register."
+msgstr ""
+
+#: strategies-simplify-text-amplifying-dense-text_en.txt:9
+msgid ""
+"B2+_Can make the content of a text on a subject in their fields of interest "
+"more accessible to a target audience by adding examples, reasoning and "
+"explanatory comments."
+msgstr ""
+
+#: strategies-simplify-text-amplifying-dense-text_en.txt:12
+msgid ""
+"B2_Can make concepts on subjects in their fields of interest more accessible "
+"by giving concrete examples, recapitulating step by step and repeating the "
+"main points."
+"Can make new information more accessible by using repetition and adding "
+"illustrations."
+msgstr ""
+
+#: strategies-simplify-text-amplifying-dense-text_en.txt:14
+msgid ""
+"B1+_Can make an aspect of an everyday topic clearer and more explicit by "
+"conveying the main information in another way."
+msgstr ""
+
+#: strategies-simplify-text-amplifying-dense-text_en.txt:16
+msgid ""
+"B1_Can make an aspect of an everyday topic clearer by providing simple "
+"examples."
+msgstr ""
+
+#: strategies-simplify-text-amplifying-dense-text_en.txt:18
+msgid "A2_No descriptors available"
+msgstr ""
+
+#: strategies-simplify-text-amplifying-dense-text_en.txt:20
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: strategies-simplify-text-amplifying-dense-text_en.txt:21
+msgid "Pre-A1_No descriptors available"
+msgstr ""

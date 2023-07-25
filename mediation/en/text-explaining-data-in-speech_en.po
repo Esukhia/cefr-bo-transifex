@@ -1,0 +1,74 @@
+#. extracted from text-explaining-data-in-speech_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:39+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: text-explaining-data-in-speech_en.txt:2
+msgid "Explaining data in speech or sign "
+msgstr ""
+
+#: text-explaining-data-in-speech_en.txt:4
+msgid ""
+"C2_Can interpret and describe clearly and reliably (in Language B) various "
+"forms of empirical data and visually organised information (with text in "
+"Language A) from conceptually complex research concerning academic or "
+"professional topics."
+msgstr ""
+
+#: text-explaining-data-in-speech_en.txt:6
+msgid ""
+"C1_Can interpret and present clearly and reliably in writing (in Language B) "
+"the salient, relevant points contained in complex diagrams and other "
+"visually organised data (with text in Language A) on complex academic or "
+"professional topics. "
+msgstr ""
+
+#: text-explaining-data-in-speech_en.txt:8
+msgid ""
+"B2_Can interpret and describe reliably (in Language B) detailed information "
+"contained in complex diagrams, charts and other visually organised "
+"information (with text in Language A) on topics in their fields of interest. "
+msgstr ""
+
+#: text-explaining-data-in-speech_en.txt:10
+msgid ""
+"B1+_Can interpret and describe (in Language B) detailed information in "
+"diagrams in their fields of interest (with text in Language A), even though "
+"lexical gaps may cause hesitation or imprecise formulation. "
+msgstr ""
+
+#: text-explaining-data-in-speech_en.txt:12
+msgid ""
+"B1_Can interpret and describe (in Language B) overall trends shown in simple "
+"diagrams (e.g. graphs, bar charts) (with text in Language A), even though "
+"lexical limitations cause difficulty with formulation at times. "
+msgstr ""
+
+#: text-explaining-data-in-speech_en.txt:14
+msgid ""
+"A2+_Can interpret and describe (in Language B) simple visuals on familiar "
+"topics (e.g. a weather map, a basic flow chart) (with text in Language A), "
+"even though pauses, false starts and reformulation may be very evident. "
+msgstr ""
+
+#: text-explaining-data-in-speech_en.txt:16
+msgid "A2_No descriptors available"
+msgstr ""
+
+#: text-explaining-data-in-speech_en.txt:18
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: text-explaining-data-in-speech_en.txt:20
+msgid "Pre-A1_No descriptors available"
+msgstr ""

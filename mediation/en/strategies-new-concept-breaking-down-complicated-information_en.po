@@ -1,0 +1,70 @@
+#. extracted from strategies-new-concept-breaking-down-complicated-information_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:39+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: strategies-new-concept-breaking-down-complicated-information_en.txt:2
+msgid "Breaking down complicated information"
+msgstr ""
+
+#: strategies-new-concept-breaking-down-complicated-information_en.txt:4
+msgid ""
+"C2_Can facilitate understanding of a complex issue by explaining the "
+"relationship of parts to the whole and encourage different ways of "
+"approaching it."
+msgstr ""
+
+#: strategies-new-concept-breaking-down-complicated-information_en.txt:6
+msgid ""
+"C1_Can facilitate understanding of a complex issue by highlighting and "
+"categorising the main points, presenting them in a logically connected "
+"pattern, and reinforcing the message by repeating the key aspects in "
+"different ways."
+msgstr ""
+
+#: strategies-new-concept-breaking-down-complicated-information_en.txt:8
+msgid ""
+"B2+_Can make a complicated issue easier to understand by presenting the "
+"components of the argument separately."
+msgstr ""
+
+#: strategies-new-concept-breaking-down-complicated-information_en.txt:10
+msgid ""
+"B2_Can make a complicated process easier to understand by breaking it down "
+"into a series of smaller steps."
+msgstr ""
+
+#: strategies-new-concept-breaking-down-complicated-information_en.txt:12
+msgid ""
+"B1+_Can make a short instructional or informational text easier to "
+"understand by presenting it as a list of separate points."
+msgstr ""
+
+#: strategies-new-concept-breaking-down-complicated-information_en.txt:14
+msgid ""
+"B1_Can make a set of instructions easier to understand by repeating them "
+"slowly, a few words/signs at a time, employing verbal and non-verbal "
+"emphasis to facilitate understanding."
+msgstr ""
+
+#: strategies-new-concept-breaking-down-complicated-information_en.txt:16
+msgid "A2_No descriptors available"
+msgstr ""
+
+#: strategies-new-concept-breaking-down-complicated-information_en.txt:18
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: strategies-new-concept-breaking-down-complicated-information_en.txt:19
+msgid "Pre-A1_No descriptors available"
+msgstr ""

@@ -1,0 +1,92 @@
+#. extracted from communication-delicate-situation-and-disagreements_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:39+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: communication-delicate-situation-and-disagreements_en.txt:2
+msgid "Facilitating communication in delicate situations and disagreements"
+msgstr ""
+
+#: communication-delicate-situation-and-disagreements_en.txt:5
+msgid ""
+"C2_Can deal tactfully with a disruptive participant, framing any remarks "
+"diplomatically in relation to the situation and cultural perceptions."
+"Can confidently take a firm but diplomatic stance over an issue of "
+"principle, while showing respect for the viewpoints of others."
+msgstr ""
+
+#: communication-delicate-situation-and-disagreements_en.txt:9
+msgid ""
+"C1_Can demonstrate sensitivity to different viewpoints, using repetition and "
+"paraphrase to demonstrate a detailed understanding of each party’s "
+"requirements for an agreement."
+"Can formulate a diplomatic request to each side in a disagreement to "
+"determine what is central to their position, and what they may be willing to "
+"give up under certain circumstances."
+"Can use persuasive language to suggest that parties in disagreement shift "
+"towards a new position."
+msgstr ""
+
+#: communication-delicate-situation-and-disagreements_en.txt:13
+msgid ""
+"B2+_Can elicit possible solutions from parties in disagreement in order to "
+"help them to reach consensus, formulating open-ended, neutral questions to "
+"minimise embarrassment or offence."
+"Can help the parties in a disagreement better understand each other by "
+"restating and reframing their positions more clearly and by prioritising "
+"needs and goals."
+"Can formulate a clear and accurate summary of what has been agreed and what "
+"is expected from each of the parties."
+msgstr ""
+
+#: communication-delicate-situation-and-disagreements_en.txt:17
+msgid ""
+"B2_Can, by asking questions, identify areas of common ground and invite each "
+"side to highlight possible solutions."
+"Can outline the main points in a disagreement with reasonable precision and "
+"explain the positions of the parties involved."
+"Can summarise the statements made by the two sides, highlighting areas of "
+"agreement and obstacles to agreement."
+msgstr ""
+
+#: communication-delicate-situation-and-disagreements_en.txt:19
+msgid ""
+"B1+_Can ask parties in a disagreement to explain their point of view, and "
+"can respond briefly to their explanations, provided the topic is familiar to "
+"them and the parties express themselves clearly."
+msgstr ""
+
+#: communication-delicate-situation-and-disagreements_en.txt:21
+msgid ""
+"B1_Can demonstrate their understanding of the key issues in a disagreement "
+"on a topic familiar to them and make simple requests for confirmation and/or "
+"clarification."
+msgstr ""
+
+#: communication-delicate-situation-and-disagreements_en.txt:23
+msgid ""
+"A2_Can recognise when people disagree or when difficulties occur in "
+"interaction and adapt memorised, simple phrases to seek compromise and "
+"agreement."
+msgstr ""
+
+#: communication-delicate-situation-and-disagreements_en.txt:25
+msgid ""
+"A1_Can recognise when people disagree or when someone has a problem and can "
+"use memorised, simple expressions (e.g. “I understand” or “Are you okay?”) "
+"to indicate sympathy."
+msgstr ""
+
+#: communication-delicate-situation-and-disagreements_en.txt:26
+msgid "Pre-A1_No descriptors available"
+msgstr ""

@@ -1,0 +1,89 @@
+#. extracted from text-relaying-information-writing_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:39+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: text-relaying-information-writing_en.txt:2
+msgid "Relaying specific information in writing"
+msgstr ""
+
+#: text-relaying-information-writing_en.txt:4
+msgid "C2_No descriptors available; see B2"
+msgstr ""
+
+#: text-relaying-information-writing_en.txt:6
+msgid "C1_No descriptors available; see B2"
+msgstr ""
+
+#: text-relaying-information-writing_en.txt:10
+msgid ""
+"B2+_Can relay in writing (in Language B) which presentations at a conference "
+"(given in Language A) were relevant, pointing out which would be worth "
+"detailed consideration."
+"Can relay in writing (in Language B) the relevant point(s) contained in "
+"propositionally complex but well-structured texts (in Language A) within "
+"their fields of professional, academic and personal interest."
+"Can relay in writing (in Language B) the relevant point(s) contained in an "
+"article (in Language A) from an academic or professional journal"
+msgstr ""
+
+#: text-relaying-information-writing_en.txt:13
+msgid ""
+"B2_Can relay in a written report (in Language B) relevant decisions that "
+"were taken in a meeting (in Language A)."
+"Can relay in writing (in Language B) the significant point(s) contained in "
+"formal correspondence (in Language A)."
+msgstr ""
+
+#: text-relaying-information-writing_en.txt:17
+msgid ""
+"B1_Can relay in writing (in Language B) specific information points "
+"contained in texts delivered (in Language A) on familiar subjects (e.g. "
+"calls, announcements and instructions)."
+"Can relay in writing (in Language B) specific, relevant information "
+"contained in straightforward informational texts (in Language A) on familiar "
+"subjects."
+"Can relay in writing (in Language B) specific information given in a "
+"straightforward recorded message (left in Language A), provided the topics "
+"concerned are familiar and the delivery is slow and clear"
+msgstr ""
+
+#: text-relaying-information-writing_en.txt:19
+msgid ""
+"A2+_Can relay in writing (in Language B) specific information contained in "
+"short simple informational texts (in Language A), provided the texts concern "
+"concrete, familiar subjects and are composed in simple everyday language."
+msgstr ""
+
+#: text-relaying-information-writing_en.txt:22
+msgid ""
+"A2_Can list (in Language B) the main points of short, clear, simple messages "
+"and announcements (given in Language A), provided they are clearly and "
+"slowly articulated."
+"Can list (in Language B) specific information contained in simple texts (in "
+"Language A) on everyday subjects of immediate interest or need."
+msgstr ""
+
+#: text-relaying-information-writing_en.txt:24
+msgid ""
+"A1_Can list (in Language B) names, numbers, prices and very simple "
+"information of immediate interest in oral texts (in Language A), provided "
+"the articulation is very slow and clear, with repetition."
+msgstr ""
+
+#: text-relaying-information-writing_en.txt:25
+msgid ""
+"Pre-A1_Can list (in Language B) names, numbers, prices and very simple "
+"information from texts (in Language A) that are of immediate interest, that "
+"are composed in very simple language and contain illustrations."
+msgstr ""

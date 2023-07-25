@@ -1,0 +1,89 @@
+#. extracted from concepts-interaction-with-peers_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:39+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: concepts-interaction-with-peers_en.txt:2
+msgid "Facilitating collaborative interaction with peers "
+msgstr ""
+
+#: concepts-interaction-with-peers_en.txt:4
+msgid "C2_No descriptors available."
+msgstr ""
+
+#: concepts-interaction-with-peers_en.txt:7
+msgid ""
+"C1_Can show sensitivity to different perspectives within a group, "
+"acknowledging contributions and formulating any reservations, disagreements "
+"or criticisms in such a way as to avoid or minimise any offence."
+"Can develop the interaction and tactfully help steer it towards a conclusion."
+msgstr ""
+
+#: concepts-interaction-with-peers_en.txt:10
+msgid ""
+"B2+_Can, based on people’s reactions, adjust the way they formulate "
+"questions and/or intervene in a group interaction."
+"Can act as rapporteur in a group discussion, noting ideas and decisions, "
+"discussing these with the group and later giving a summary of the group’s "
+"view(s) in a plenary."
+msgstr ""
+
+#: concepts-interaction-with-peers_en.txt:14
+msgid ""
+"B2_Can ask questions to stimulate discussion on how to organise "
+"collaborative work."
+"Can help define goals for teamwork and compare options for how to achieve "
+"them."
+"Can refocus a discussion by suggesting what to consider next, and how to "
+"proceed."
+msgstr ""
+
+#: concepts-interaction-with-peers_en.txt:18
+msgid ""
+"B1+_Can collaborate on a shared task, e.g. formulating and responding to "
+"suggestions, asking whether people agree, and proposing alternative "
+"approaches."
+"Can collaborate in simple, shared tasks and work towards a common goal in a "
+"group by asking and answering straightforward questions."
+"Can define the task in basic terms in a discussion and ask others to "
+"contribute their expertise and experience."
+msgstr ""
+
+#: concepts-interaction-with-peers_en.txt:20
+msgid "B1_Can invite other people in a group to contribute their views."
+msgstr ""
+
+#: concepts-interaction-with-peers_en.txt:22
+msgid ""
+"A2+_Can collaborate in simple, shared tasks, provided other participants "
+"articulate slowly and one or more people help them contribute and express "
+"their suggestions."
+msgstr ""
+
+#: concepts-interaction-with-peers_en.txt:24
+msgid ""
+"A2_Can collaborate in simple, practical tasks, asking what others think, "
+"making suggestions and understanding responses, provided they can ask for "
+"repetition or reformulation from time to time."
+msgstr ""
+
+#: concepts-interaction-with-peers_en.txt:26
+msgid ""
+"A1_Can invite others’ contributions to very simple tasks using short, simple "
+"phrases prepared in advance. Can indicate that they understand and ask "
+"whether others understand."
+msgstr ""
+
+#: concepts-interaction-with-peers_en.txt:27
+msgid "Pre-A1_No descriptors available"
+msgstr ""

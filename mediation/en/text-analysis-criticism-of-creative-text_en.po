@@ -1,0 +1,81 @@
+#. extracted from text-analysis-criticism-of-creative-text_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:39+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: text-analysis-criticism-of-creative-text_en.txt:2
+msgid "Analysis and criticism of creative texts (including literature)"
+msgstr ""
+
+#: text-analysis-criticism-of-creative-text_en.txt:7
+msgid ""
+"C2_Can give a critical appraisal of work of different periods and genres ("
+"e.g. novels, poems and plays), appreciating subtle distinctions of style and "
+"implicit as well as explicit meaning."
+"Can recognise the finer subtleties of nuanced language, rhetorical effect "
+"and stylistic language use (e.g. metaphors, abnormal syntax, ambiguity), "
+"interpreting and “unpacking” meanings and connotations."
+"Can critically evaluate the way in which structure, language and rhetorical "
+"devices are exploited in a work for a particular purpose and give a reasoned "
+"argument concerning their appropriateness and effectiveness."
+"Can give a critical appreciation of deliberate breaches of linguistic "
+"conventions in a piece of writing."
+msgstr ""
+
+#: text-analysis-criticism-of-creative-text_en.txt:11
+msgid ""
+"C1_Can critically appraise a wide variety of texts including literary works "
+"of different periods and genres."
+"Can evaluate the extent to which a work follows the conventions of its genre."
+""
+"Can describe and comment on ways in which the work engages the audience ("
+"e.g. by building up and subverting expectations)."
+msgstr ""
+
+#: text-analysis-criticism-of-creative-text_en.txt:16
+msgid ""
+"B2_Can compare two works, considering themes, characters and scenes, "
+"exploring similarities and contrasts and explaining the relevance of the "
+"connections between them."
+"Can give a reasoned opinion of a work, showing awareness of the thematic, "
+"structural and formal features and referring to the opinions and arguments "
+"of others."
+"Can evaluate the way the work encourages identification with characters, "
+"giving examples."
+"Can describe the way in which different works differ in their treatment of "
+"the same theme."
+msgstr ""
+
+#: text-analysis-criticism-of-creative-text_en.txt:19
+msgid ""
+"B1_Can point out the most important episodes and events in a clearly "
+"structured narrative in everyday language and explain the significance of "
+"events and the connections between them."
+"Can describe the key themes and characters in short narratives involving "
+"familiar situations that contain only high frequency everyday language."
+msgstr ""
+
+#: text-analysis-criticism-of-creative-text_en.txt:21
+msgid ""
+"A2_Can identify and briefly describe, in basic formulaic language, the key "
+"themes and characters in short, simple narratives involving familiar "
+"situations that contain only high frequency everyday language."
+msgstr ""
+
+#: text-analysis-criticism-of-creative-text_en.txt:23
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: text-analysis-criticism-of-creative-text_en.txt:24
+msgid "Pre-A1_No descriptors available"
+msgstr ""

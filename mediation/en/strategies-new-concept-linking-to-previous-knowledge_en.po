@@ -1,0 +1,70 @@
+#. extracted from strategies-new-concept-linking-to-previous-knowledge_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:39+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: strategies-new-concept-linking-to-previous-knowledge_en.txt:2
+msgid "Linking to previous knowledge"
+msgstr ""
+
+#: strategies-new-concept-linking-to-previous-knowledge_en.txt:4
+msgid ""
+"C2_Can introduce complex concepts (e.g. scientific notions) by providing "
+"extended definitions and explanations that draw on previous knowledge that "
+"can be assumed."
+msgstr ""
+
+#: strategies-new-concept-linking-to-previous-knowledge_en.txt:6
+msgid ""
+"C1_Can spontaneously pose a series of questions to encourage people to think "
+"about their prior knowledge of an abstract issue and to help them establish "
+"a link to what is going to be explained."
+msgstr ""
+
+#: strategies-new-concept-linking-to-previous-knowledge_en.txt:8
+msgid ""
+"B2+_Can clearly explain the connections between the goals of the session and "
+"the personal or professional interests and experiences of the participant(s)."
+msgstr ""
+
+#: strategies-new-concept-linking-to-previous-knowledge_en.txt:11
+msgid ""
+"B2_Can formulate questions and give feedback to encourage people to make "
+"connections to previous knowledge and experiences."
+"Can explain a new concept or procedure by comparing and contrasting it to "
+"one that people are already familiar with."
+msgstr ""
+
+#: strategies-new-concept-linking-to-previous-knowledge_en.txt:13
+msgid ""
+"B1+_Can explain how something works by providing examples that draw on "
+"people’s everyday experiences."
+msgstr ""
+
+#: strategies-new-concept-linking-to-previous-knowledge_en.txt:15
+msgid ""
+"B1_Can show how new information is related to what people are familiar with "
+"by asking simple questions."
+msgstr ""
+
+#: strategies-new-concept-linking-to-previous-knowledge_en.txt:17
+msgid "A2_No descriptors available"
+msgstr ""
+
+#: strategies-new-concept-linking-to-previous-knowledge_en.txt:19
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: strategies-new-concept-linking-to-previous-knowledge_en.txt:20
+msgid "Pre-A1_No descriptors available"
+msgstr ""

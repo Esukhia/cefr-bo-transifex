@@ -1,0 +1,79 @@
+#. extracted from strategies-new-concept-adapting-language_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:39+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: strategies-new-concept-adapting-language_en.txt:2
+msgid "Adapting language"
+msgstr ""
+
+#: strategies-new-concept-adapting-language_en.txt:4
+msgid ""
+"C2_Can adapt the language of a very wide range of texts in order to present "
+"the main content in a register and degree of sophistication and detail "
+"appropriate to the audience concerned."
+msgstr ""
+
+#: strategies-new-concept-adapting-language_en.txt:8
+msgid ""
+"C1_Can explain technical terminology and difficult concepts when "
+"communicating with non-experts about matters within their own field of "
+"specialisation."
+"Can adapt their language (e.g. syntax, idiomaticity, jargon) in order to "
+"make a complex specialist topic accessible to recipients who are not "
+"familiar with it."
+"Can paraphrase and interpret complex, technical texts, using suitably non-"
+"technical language for a recipient who does not have specialist knowledge."
+msgstr ""
+
+#: strategies-new-concept-adapting-language_en.txt:11
+msgid ""
+"B2+_Can explain technical topics within their field, using suitably non-"
+"technical language for a recipient who does not have specialist knowledge."
+"Can make a specific, complex piece of information in their field clearer and "
+"more explicit for others by paraphrasing it in simpler language."
+msgstr ""
+
+#: strategies-new-concept-adapting-language_en.txt:13
+msgid ""
+"B2_Can make accessible for others the main contents of a text on a subject "
+"of interest (e.g. an essay, a forum discussion, a presentation) by "
+"paraphrasing in simpler language."
+msgstr ""
+
+#: strategies-new-concept-adapting-language_en.txt:15
+msgid ""
+"B1+_Can paraphrase more simply the main points made in short, "
+"straightforward texts on familiar subjects (e.g. short magazine articles, "
+"interviews) to make the contents accessible for others."
+msgstr ""
+
+#: strategies-new-concept-adapting-language_en.txt:17
+msgid ""
+"B1_Can paraphrase short passages in a simple fashion, using the original "
+"order of the text."
+msgstr ""
+
+#: strategies-new-concept-adapting-language_en.txt:19
+msgid ""
+"A2_Can repeat the main point of a simple message on an everyday subject, "
+"using different formulation to help someone else understand it."
+msgstr ""
+
+#: strategies-new-concept-adapting-language_en.txt:21
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: strategies-new-concept-adapting-language_en.txt:22
+msgid "Pre-A1_No descriptors available"
+msgstr ""

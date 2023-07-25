@@ -1,0 +1,66 @@
+#. extracted from strategies-simplify-text-strreamlining-text_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:39+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: strategies-simplify-text-strreamlining-text_en.txt:2
+msgid "Streamlining a text"
+msgstr ""
+
+#: strategies-simplify-text-strreamlining-text_en.txt:4
+msgid ""
+"C2_Can redraft a complex source text, improving coherence, cohesion and the "
+"flow of an argument, while removing sections unnecessary for its purpose."
+msgstr ""
+
+#: strategies-simplify-text-strreamlining-text_en.txt:6
+msgid ""
+"C1_Can reorganise a complex source text in order to focus on the points of "
+"most relevance to the target audience."
+msgstr ""
+
+#: strategies-simplify-text-strreamlining-text_en.txt:8
+msgid ""
+"B2+_Can simplify a source text by excluding non-relevant or repetitive "
+"information and taking into consideration the intended audience."
+msgstr ""
+
+#: strategies-simplify-text-strreamlining-text_en.txt:11
+msgid ""
+"B2_Can edit a source text by deleting the parts that do not add new "
+"information that is relevant for a given audience in order to make the "
+"significant content more accessible for them."
+"Can identify related or repeated information in different parts of a text "
+"and merge it in order to make the essential message clearer."
+msgstr ""
+
+#: strategies-simplify-text-strreamlining-text_en.txt:13
+msgid ""
+"B1_Can identify and mark (e.g. underline, highlight) the essential "
+"information in a straightforward, informational text, in order to pass this "
+"information on to someone else."
+msgstr ""
+
+#: strategies-simplify-text-strreamlining-text_en.txt:15
+msgid ""
+"A2_Can identify and mark (e.g. underline, highlight) the key sentences in a "
+"short everyday text."
+msgstr ""
+
+#: strategies-simplify-text-strreamlining-text_en.txt:17
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: strategies-simplify-text-strreamlining-text_en.txt:18
+msgid "Pre-A1_No descriptors available"
+msgstr ""

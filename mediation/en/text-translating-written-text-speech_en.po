@@ -1,0 +1,93 @@
+#. extracted from text-translating-written-text-speech_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:39+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: text-translating-written-text-speech_en.txt:2
+msgid "Translating a written text in speech or sign"
+msgstr ""
+
+#: text-translating-written-text-speech_en.txt:4
+msgid ""
+"C2_Can provide fluent oral translation (into Language B) of abstract texts ("
+"written in Language A) on a wide range of subjects of personal, academic and "
+"professional interest, successfully conveying evaluative aspects and "
+"arguments, including the nuances and implications associated with them."
+msgstr ""
+
+#: text-translating-written-text-speech_en.txt:6
+msgid ""
+"C1_Can provide fluent oral translation (into Language B) of complex texts ("
+"written in Language A) on a wide range of general and specialised topics, "
+"capturing most nuances."
+msgstr ""
+
+#: text-translating-written-text-speech_en.txt:8
+msgid ""
+"B2+_Can provide oral translation (into Language B) of complex texts (written "
+"in Language A) containing information and arguments on subjects within their "
+"fields of professional, academic and personal interest."
+msgstr ""
+
+#: text-translating-written-text-speech_en.txt:10
+msgid ""
+"B2_Can provide oral translation (into Language B) of texts (written in "
+"Language A) containing information and arguments on subjects within their "
+"fields of professional, academic and personal interest, provided they are "
+"written in uncomplicated, standard language."
+msgstr ""
+
+#: text-translating-written-text-speech_en.txt:12
+msgid ""
+"B1+_Can provide an approximate oral translation (into Language B) of clear, "
+"well-structured informational texts (written in Language A) on subjects that "
+"are familiar or of personal interest, although lexical limitations cause "
+"difficulty with formulation at times."
+msgstr ""
+
+#: text-translating-written-text-speech_en.txt:14
+msgid ""
+"B1_Can provide an approximate oral translation (into Language B) of clear, "
+"well-structured informational texts (written in Language A) on subjects that "
+"are familiar or of personal interest, although lexical limitations cause "
+"difficulty with formulation at times."
+msgstr ""
+
+#: text-translating-written-text-speech_en.txt:16
+msgid ""
+"A2+_Can provide an approximate oral translation (into Language B) of short, "
+"simple, everyday texts (e.g. brochure entries, notices, instructions, "
+"letters or e-mails) (written in Language A)."
+msgstr ""
+
+#: text-translating-written-text-speech_en.txt:19
+msgid ""
+"A2_Can provide a simple, rough oral translation (into Language B) of short, "
+"simple texts (e.g. notices on familiar subjects) (written in Language A), "
+"capturing the most essential point."
+"Can provide a simple, rough oral translation (into Language B) of routine "
+"information on familiar everyday subjects that is written in simple "
+"sentences (in Language A) (e.g. personal news, short narratives, directions, "
+"notices or instructions)."
+msgstr ""
+
+#: text-translating-written-text-speech_en.txt:21
+msgid ""
+"A1_Can provide a simple, rough oral translation (into Language B) of simple "
+"everyday words/signs and phrases (written in Language A) that are "
+"encountered on signs and notices, posters, programmes, leaflets, etc."
+msgstr ""
+
+#: text-translating-written-text-speech_en.txt:22
+msgid "Pre-A1_No descriptors available"
+msgstr ""

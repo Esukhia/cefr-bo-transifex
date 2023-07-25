@@ -1,0 +1,86 @@
+#. extracted from text-relaying-information-speech_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-25 17:39+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: text-relaying-information-speech_en.txt:2
+msgid "Relaying specific information in speech or sign"
+msgstr ""
+
+#: text-relaying-information-speech_en.txt:4
+msgid "C2_No descriptors available; see C1"
+msgstr ""
+
+#: text-relaying-information-speech_en.txt:6
+msgid ""
+"C1_Can explain (in Language B) the relevance of specific information found "
+"in a particular section of a long, complex text (in Language A)."
+msgstr ""
+
+#: text-relaying-information-speech_en.txt:8
+msgid ""
+"B2+_Can relay (in Language B) which presentations given (in Language A) at a "
+"conference, or which articles in a book (in Language A) are particularly "
+"relevant for a specific purpose."
+msgstr ""
+
+#: text-relaying-information-speech_en.txt:10
+msgid ""
+"B2_Can relay (in Language B) the main point(s) contained in formal "
+"correspondence and/or reports (in Language A) on general subjects and on "
+"subjects related to their fields of interest."
+msgstr ""
+
+#: text-relaying-information-speech_en.txt:14
+msgid ""
+"B1_Can relay (in Language B) the content of public announcements and "
+"messages delivered clearly at normal speed (in Language A)."
+"Can relay (in Language B) the contents of detailed instructions or "
+"directions, provided these are clearly articulated (in Language A)."
+"Can relay (in Language B) specific information given in straightforward "
+"informational texts (e.g. leaflets, brochure entries, notices and letters or "
+"e-mails) (in Language A)"
+msgstr ""
+
+#: text-relaying-information-speech_en.txt:17
+msgid ""
+"A2+_Can relay (in Language B) the point made in a clear announcement (in "
+"Language A) concerning familiar everyday subjects, though they may have to "
+"simplify the message and search for words/signs."
+"Can relay (in Language B) specific, relevant information contained in short, "
+"simple texts, labels and notices (in Language A) on familiar subjects"
+msgstr ""
+
+#: text-relaying-information-speech_en.txt:20
+msgid ""
+"A2_Can relay (in Language B) the point made in short, clear, simple "
+"messages, instructions and announcements, provided these are expressed "
+"slowly and clearly in simple language (in Language A)."
+"Can relay (in Language B) in a simple way a series of short, simple "
+"instructions, provided the original (in Language A) is clearly and slowly "
+"articulated."
+msgstr ""
+
+#: text-relaying-information-speech_en.txt:22
+msgid ""
+"A1_Can relay (in Language B) simple, predictable information about times and "
+"places given in short, simple statements (delivered in Language A)."
+msgstr ""
+
+#: text-relaying-information-speech_en.txt:24
+msgid ""
+"Pre-A1_Can relay (in Language B) simple instructions about places and times ("
+"given in Language A), provided these are repeated very slowly and clearly."
+"Can relay (in Language B) very basic information (e.g. numbers and prices) "
+"from short, simple, illustrated texts (in Language A)"
+msgstr ""
