@@ -1,0 +1,82 @@
+#. extracted from reading-overall-comp_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:15+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: reading-overall-comp_en.txt:2
+msgid "Overall reading comprehension"
+msgstr ""
+
+#: reading-overall-comp_en.txt:7
+msgid ""
+"C2_Can understand virtually all types of texts including abstract, "
+"structurally complex, or highly colloquial "
+"literary and non-literary writings."
+"Can understand a wide range of long and complex texts, appreciating subtle "
+"distinctions of style and "
+"implicit as well as explicit meaning."
+msgstr ""
+
+#: reading-overall-comp_en.txt:11
+msgid ""
+"C1_Can understand in detail lengthy, complex texts, whether or not these "
+"relate to their own area of speciality, "
+"provided they can reread difficult sections."
+"Can understand a wide variety of texts including literary writings, "
+"newspaper or magazine articles, and specialised academic or professional "
+"publications, provided there are opportunities for rereading and they have "
+"access to reference tools."
+msgstr ""
+
+#: reading-overall-comp_en.txt:15
+msgid ""
+"B2_Can read with a large degree of independence, adapting style and speed of "
+"reading to different texts and "
+"purposes, and using appropriate reference sources selectively. Has a broad "
+"active reading vocabulary, but "
+"may experience some difficulty with low-frequency idioms."
+msgstr ""
+
+#: reading-overall-comp_en.txt:18
+msgid ""
+"B1_Can read straightforward factual texts on subjects related to their field "
+"of interest with a satisfactory level "
+"of comprehension."
+msgstr ""
+
+#: reading-overall-comp_en.txt:21
+msgid ""
+"A2+Can understand short, simple texts on familiar matters of a concrete type "
+"which consist of high frequency "
+"everyday or job-related language."
+msgstr ""
+
+#: reading-overall-comp_en.txt:24
+msgid ""
+"A2_Can understand short, simple texts containing the highest frequency "
+"vocabulary, including a proportion of "
+"shared international vocabulary items."
+msgstr ""
+
+#: reading-overall-comp_en.txt:26
+msgid ""
+"A1_Can understand very short, simple texts a single phrase at a time, "
+"picking up familiar names, words and basic phrases and rereading as required."
+msgstr ""
+
+#: reading-overall-comp_en.txt:28
+msgid ""
+"Pre-A1_Can recognise familiar words/signs accompanied by pictures, such as a "
+"fast-food restaurant menu "
+"illustrated with photos or a picture book using familiar vocabulary."
+msgstr ""

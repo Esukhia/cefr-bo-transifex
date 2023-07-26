@@ -1,0 +1,105 @@
+#. extracted from reading-for-orientation_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:15+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: reading-for-orientation_en.txt:2
+msgid "Reading for orientation"
+msgstr ""
+
+#: reading-for-orientation_en.txt:4
+msgid "C2_No descriptors available; see B2"
+msgstr ""
+
+#: reading-for-orientation_en.txt:6
+msgid "C1_No descriptors available; see B2"
+msgstr ""
+
+#: reading-for-orientation_en.txt:8
+msgid ""
+"B2+_Can scan quickly through several sources (articles, reports, websites, "
+"books, etc.) in parallel, in both their own field and in related fields, and "
+"can identify the relevance and usefulness of particular sections for the "
+"task at hand."
+msgstr ""
+
+#: reading-for-orientation_en.txt:11
+msgid ""
+"B2_Can scan quickly through long and complex texts, locating relevant "
+"details."
+"Can quickly identify the content and relevance of news items, articles and "
+"reports on a wide range of professional topics, deciding whether closer "
+"study is worthwhile."
+msgstr ""
+
+#: reading-for-orientation_en.txt:14
+msgid ""
+"B1+_Can scan longer texts in order to locate desired information, and gather "
+"information from different parts of a text, or from different texts in order "
+"to fulfil a specific task."
+"Can scan through straightforward, factual texts in magazines, brochures or "
+"on the web, identify what they are about and decide whether they contain "
+"information that might be of practical use."
+msgstr ""
+
+#: reading-for-orientation_en.txt:19
+msgid ""
+"B1_Can find and understand relevant information in everyday material, such "
+"as letters, brochures and short official documents."
+"Can pick out important information about preparation and usage on the labels "
+"on foodstuff and medicine."
+"Can assess whether an article, report or review is on the required topic."
+"Can understand the important information in simple, clearly drafted adverts "
+"in newspapers or magazines, provided there are not too many abbreviations."
+msgstr ""
+
+#: reading-for-orientation_en.txt:22
+msgid ""
+"A2+_Can find specific information in practical, concrete, predictable texts ("
+"e.g. travel guidebooks, recipes), provided they are produced in simple "
+"language."
+"Can understand the main information in short and simple descriptions of "
+"goods in brochures and websites (e.g. portable digital devices, cameras)."
+msgstr ""
+
+#: reading-for-orientation_en.txt:26
+msgid ""
+"A2_Can find specific, predictable information in simple everyday material "
+"such as advertisements, prospectuses, menus, reference lists and timetables."
+""
+"Can locate specific information in lists and isolate the information "
+"required (e.g. use the Yellow Pages to find a service or tradesman)."
+"Can understand everyday signs and notices, etc. in public places, such as "
+"streets, restaurants, railway stations; in workplaces, such as directions, "
+"instructions, hazard warnings."
+msgstr ""
+
+#: reading-for-orientation_en.txt:31
+msgid ""
+"A1_Can recognise familiar names, words/signs and very basic phrases on "
+"simple notices in the most common everyday situations."
+"Can understand store guides (information on which floors departments are on) "
+"and directions (eg. where to find lifts)."
+"Can understand basic hotel information (e.g. times when meals are served)."
+"Can find and understand simple, important information in advertisements, "
+"programmes for special events, leaflets and brochures (e.g. what is "
+"proposed, costs, the date and place of the event, departure times)."
+msgstr ""
+
+#: reading-for-orientation_en.txt:33
+msgid ""
+"Pre-A1_Can understand simple everyday signs such as “Parking”, “Station”, “"
+"Dining room”, “No smoking”, etc."
+"Can find information about places, times and prices on posters, flyers and "
+"notices."
+msgstr ""

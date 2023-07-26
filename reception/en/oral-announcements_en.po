@@ -1,0 +1,89 @@
+#. extracted from oral-announcements_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:14+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: oral-announcements_en.txt:2
+msgid "Understanding announcements and instructions"
+msgstr ""
+
+#: oral-announcements_en.txt:4
+msgid "C2_No descriptors available; see C1"
+msgstr ""
+
+#: oral-announcements_en.txt:7
+msgid ""
+"C1_Cextract specific information from poor quality, [audibly and/or visually]"
+" distorted public announcements, e.g. in a station or sports stadium, or on "
+"an old recording."
+"Can understand complex technical information, such as operating instructions "
+"or specifications for familiar products and services."
+msgstr ""
+
+#: oral-announcements_en.txt:10
+msgid ""
+"B2_Can understand announcements and messages on concrete and abstract topics "
+"delivered in standard language or a familiar variety at normal speed."
+"Can understand detailed instructions well enough to be able to follow them "
+"successfully."
+msgstr ""
+
+#: oral-announcements_en.txt:14
+msgid ""
+"B1_Can understand simple technical information, such as operating "
+"instructions for everyday equipment."
+"Can follow detailed directions."
+"Can understand public announcements at airports, stations and on planes, "
+"buses and trains, provided these are clearly articulated with minimum "
+"interference from [auditory/visual] background noise."
+msgstr ""
+
+#: oral-announcements_en.txt:17
+msgid ""
+"A2+_Can understand and follow a series of instructions for familiar everyday "
+"activities such as sports, cooking, etc., provided they are delivered slowly "
+"and clearly."
+"Can understand straightforward announcements (e.g. of a cinema programme or "
+"sports event, that a train has been delayed), provided the delivery is slow "
+"and clear."
+msgstr ""
+
+#: oral-announcements_en.txt:21
+msgid ""
+"A2_Can catch the main point in short, clear, simple messages and "
+"announcements."
+"Can understand simple directions on how to get from X to Y, by foot or "
+"public transport."
+"Can understand basic instructions on times, dates and numbers, etc., and on "
+"routine tasks and assignments to be carried out."
+msgstr ""
+
+#: oral-announcements_en.txt:27
+msgid ""
+"A1_Can understand instructions addressed carefully and slowly to them and "
+"follow short, simple directions."
+"Can understand when someone tells them slowly and clearly where something "
+"is, provided the object is in "
+"the immediate environment."
+"Can understand figures, prices and times given slowly and clearly in an "
+"announcement by loudspeaker, e.g. "
+"at a railway station or in a shop."
+msgstr ""
+
+#: oral-announcements_en.txt:29
+msgid ""
+"Pre-A1_Can understand short, simple instructions for actions such as “Stop”, "
+"“Close the door”, etc., provided they are "
+"delivered slowly face-to-face, accompanied by pictures or manual gestures "
+"and repeated if necessary."
+msgstr ""

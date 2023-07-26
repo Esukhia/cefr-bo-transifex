@@ -1,0 +1,114 @@
+#. extracted from oral-live-audience_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:14+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: oral-live-audience_en.txt:2
+msgid "Understanding as a member of a live audience"
+msgstr ""
+
+#: oral-live-audience_en.txt:7
+msgid ""
+"C2_Can follow specialised lectures and presentations employing "
+"colloquialism, regional usage or unfamiliar "
+"terminology."
+"Can make appropriate inferences when links or implications are not made "
+"explicit."
+"Can get the point of jokes or allusions in a presentation."
+msgstr ""
+
+#: oral-live-audience_en.txt:9
+msgid ""
+"C1_Can follow most lectures, discussions and debates with relative ease."
+msgstr ""
+
+#: oral-live-audience_en.txt:14
+msgid ""
+"B2+_Can follow the essentials of lectures, talks and reports and other forms "
+"of academic/professional "
+"presentation which are propositionally and linguistically complex."
+"Can understand the point of view expressed on topics that are of current "
+"interest or that relate to their "
+"specialised field, provided the talk is delivered in standard language or a "
+"familiar variety."
+msgstr ""
+
+#: oral-live-audience_en.txt:20
+msgid ""
+"B2_Can follow complex lines of argument in a clearly articulated lecture, "
+"provided the topic is reasonably "
+"familiar."
+"Can distinguish main themes from asides, provided the lecture or talk is "
+"delivered in standard language or "
+"a familiar variety."
+"Can recognise the point of view expressed and distinguish this from facts "
+"being reporting."
+msgstr ""
+
+#: oral-live-audience_en.txt:25
+msgid ""
+"B1+_Can follow a lecture or talk within their own field, provided the "
+"subject matter is familiar and the "
+"presentation straightforward and clearly structured."
+"Can distinguish between main ideas and supporting details in standard "
+"lectures on familiar subjects, "
+"provided these are delivered in clearly articulated standard language or a "
+"familiar variety."
+msgstr ""
+
+#: oral-live-audience_en.txt:32
+msgid ""
+"B1_Can follow in outline straightforward short talks on familiar topics, "
+"provided these are delivered in clearly "
+"articulated standard language or a familiar variety."
+"Can follow a straightforward conference presentation or demonstration with "
+"visual support (e.g. slides, "
+"handouts) on a topic or product within their field, understanding "
+"explanations given."
+"Can understand the main points of what is said in a straightforward "
+"monologue (e.g. a guided tour), "
+"provided the delivery is clear and relatively slow."
+msgstr ""
+
+#: oral-live-audience_en.txt:36
+msgid ""
+"A2+_Can follow the general outline of a demonstration or presentation on a "
+"familiar or predictable topic, where "
+"the message is expressed slowly and clearly in simple language and there is "
+"visual support (e.g. slides, "
+"handouts)."
+msgstr ""
+
+#: oral-live-audience_en.txt:42
+msgid ""
+"A2_Can follow a very simple, well-structured presentation or demonstration, "
+"provided it is illustrated with "
+"slides, concrete examples or diagrams, it is delivered slowly and clearly "
+"with repetition, and the topic is "
+"familiar."
+"Can understand the outline of simple information given in a predictable "
+"situation, such as on a guided tour "
+"(e.g. “This is where the President lives”)."
+msgstr ""
+
+#: oral-live-audience_en.txt:45
+msgid ""
+"A1 Can understand in outline very simple information being explained in a "
+"predictable situation like a guided "
+"tour, provided the delivery is very slow and clear and that there are long "
+"pauses from time to time."
+msgstr ""
+
+#: oral-live-audience_en.txt:46
+msgid "Pre-A1 No descriptors available."
+msgstr ""

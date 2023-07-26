@@ -1,0 +1,91 @@
+#. extracted from reading-correspondence_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:14+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: reading-correspondence_en.txt:2
+msgid "Reading correspondence"
+msgstr ""
+
+#: reading-correspondence_en.txt:4
+msgid ""
+"C2_Can understand specialised, formal correspondence on a complex topic."
+msgstr ""
+
+#: reading-correspondence_en.txt:8
+msgid ""
+"C1_Can understand any correspondence given the occasional use of a "
+"dictionary."
+"Can understand implicit as well as explicit attitudes, emotions and opinions "
+"expressed in e-mails, discussion forums, vlogs/blogs, etc., provided there "
+"are opportunities for rereading and they have access to reference tools."
+"Can understand slang, idiomatic expressions and jokes in private "
+"correspondence."
+msgstr ""
+
+#: reading-correspondence_en.txt:11
+msgid ""
+"B2_Can read correspondence relating to their field of interest and readily "
+"grasp the essential meaning."
+"Can understand what is said in a personal e-mail or posting even where some "
+"colloquial language is used."
+msgstr ""
+
+#: reading-correspondence_en.txt:15
+msgid ""
+"B1+_Can understand formal correspondence on less familiar subjects well "
+"enough to redirect it to someone "
+"else. "
+msgstr ""
+
+#: reading-correspondence_en.txt:19
+msgid ""
+"B1_Can understand the description of events, feelings and wishes in personal "
+"letters well enough to correspond regularly with a pen friend."
+"Can understand straightforward personal letters, e-mails or postings giving "
+"a relatively detailed account of events and experiences."
+"Can understand standard formal correspondence and online postings in their "
+"area of professional interest."
+msgstr ""
+
+#: reading-correspondence_en.txt:22
+msgid ""
+"A2+_Can understand a simple personal letter, e-mail or post in which the "
+"person writing is talking about familiar subjects (such as friends or family)"
+" or asking questions on these subjects."
+"Can understand basic types of standard routine letters and faxes (enquiries, "
+"orders, letters of confirmation, etc.) on familiar topics."
+msgstr ""
+
+#: reading-correspondence_en.txt:25
+msgid ""
+"A2+_Can understand short, simple personal letters."
+"Can understand very simple formal e-mails and letters (e.g. confirmation of "
+"a booking or online purchase)."
+msgstr ""
+
+#: reading-correspondence_en.txt:28
+msgid ""
+"A1_Can understand short, simple messages on postcards."
+"Can understand short, simple messages sent via social media or e-mail (e.g. "
+"proposing what to do, when and where to meet)."
+msgstr ""
+
+#: reading-correspondence_en.txt:30
+msgid ""
+"Pre-A1_Can understand from a letter, card or e-mail the event to which they "
+"are being invited and the information given about day, time and location."
+"Can recognise times and places in very simple notes and text messages from "
+"friends or colleagues (e.g. “Back at 4 o’clock” or “In the meeting room”), "
+"provided there are no abbreviations."
+msgstr ""

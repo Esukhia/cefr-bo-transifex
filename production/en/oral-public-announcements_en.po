@@ -1,0 +1,60 @@
+#. extracted from oral-public-announcements_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:17+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: oral-public-announcements_en.txt:2
+msgid "Public announcements"
+msgstr ""
+
+#: oral-public-announcements_en.txt:4
+msgid "C2_No descriptors available; see C1"
+msgstr ""
+
+#: oral-public-announcements_en.txt:7
+msgid ""
+"C1_Can deliver announcements fluently, almost effortlessly, using stress and "
+"intonation to convey finer shades "
+"of meaning precisely."
+msgstr ""
+
+#: oral-public-announcements_en.txt:10
+msgid ""
+"B2_Can deliver announcements on most general topics with a degree of "
+"clarity, fluency and spontaneity which "
+"causes no strain or inconvenience to the recipient."
+msgstr ""
+
+#: oral-public-announcements_en.txt:14
+msgid ""
+"B1_Can deliver short, rehearsed announcements on a topic pertinent to "
+"everyday occurrences in their field "
+"which, despite possible problems with stress and intonation (= non-manuals "
+"in a sign language), are "
+"nevertheless clearly intelligible."
+msgstr ""
+
+#: oral-public-announcements_en.txt:17
+msgid ""
+"A2_Can deliver very short, rehearsed announcements of predictable, learnt "
+"content which are intelligible to "
+"recipients who are prepared to concentrate."
+msgstr ""
+
+#: oral-public-announcements_en.txt:19
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: oral-public-announcements_en.txt:20
+msgid "Pre-A1 No descriptors available"
+msgstr ""

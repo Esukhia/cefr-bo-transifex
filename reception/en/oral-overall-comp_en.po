@@ -1,0 +1,102 @@
+#. extracted from oral-overall-comp_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:14+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: oral-overall-comp_en.txt:2
+msgid "Overall oral comprehension"
+msgstr ""
+
+#: oral-overall-comp_en.txt:4
+msgid ""
+"C2_Can understand with ease virtually any kind of language, whether live or "
+"broadcast, delivered at fast natural speed."
+msgstr ""
+
+#: oral-overall-comp_en.txt:8
+msgid ""
+"C1_Can understand enough to follow extended discourse on abstract and "
+"complex topics beyond their own field, though they may need to confirm "
+"occasional details, especially if the variety is unfamiliar."
+"Can recognise a wide range of idiomatic expressions and colloquialisms, "
+"appreciating register shifts."
+"Can follow extended discourse even when it is not clearly structured and "
+"when relationships are only implied and not signalled explicitly."
+msgstr ""
+
+#: oral-overall-comp_en.txt:10
+msgid ""
+"B2+_Can understand standard language or a familiar variety, live or "
+"broadcast, on both familiar and unfamiliar topics normally encountered in "
+"personal, social, academic or vocational life. Only extreme [auditory/visual]"
+" background noise, inadequate discourse structure and/or idiomatic usage "
+"influence the ability to understand."
+msgstr ""
+
+#: oral-overall-comp_en.txt:13
+msgid ""
+"B2_Can understand the main ideas of propositionally and linguistically "
+"complex discourse on both concrete and abstract topics delivered in standard "
+"language or a familiar variety, including technical discussions in their "
+"field of specialisation."
+"Can follow extended discourse and complex lines of argument, provided the "
+"topic is reasonably familiar, and the direction of the argument is "
+"signposted by explicit markers."
+msgstr ""
+
+#: oral-overall-comp_en.txt:15
+msgid ""
+"B1+_Can understand straightforward factual information about common everyday "
+"or job-related topics, identifying both general messages and specific "
+"details, provided people articulate clearly in a generally familiar variety."
+msgstr ""
+
+#: oral-overall-comp_en.txt:17
+msgid ""
+"B1_Can understand the main points made in clear standard language or a "
+"familiar variety on familiar matters regularly encountered at work, school, "
+"leisure, etc., including short narratives."
+msgstr ""
+
+#: oral-overall-comp_en.txt:19
+msgid ""
+"A2+_Can understand enough to be able to meet needs of a concrete type, "
+"provided people articulate clearly and slowly."
+msgstr ""
+
+#: oral-overall-comp_en.txt:21
+msgid ""
+"A2_Can understand phrases and expressions related to areas of most immediate "
+"priority (e.g. very basic personal and family information, shopping, local "
+"geography, employment), provided people articulate clearly and slowly"
+msgstr ""
+
+#: oral-overall-comp_en.txt:24
+msgid ""
+"A1_Can follow language which is very slow and carefully articulated, with "
+"long pauses for them to assimilate meaning."
+"Can recognise concrete information (e.g. places and times) on familiar "
+"topics encountered in everyday life, provided it is delivered slowly and "
+"clearly."
+msgstr ""
+
+#: oral-overall-comp_en.txt:27
+msgid ""
+"Pre-A1_Can understand short, very simple questions and statements, provided "
+"they are delivered slowly and clearly and accompanied by visuals or manual "
+"gestures to support understanding and repeated if necessary."
+"Can recognise everyday, familiar words/signs, provided they are delivered "
+"clearly and slowly in a clearly defined, familiar everyday context."
+"Can recognise numbers, prices, dates and days of the week, provided they are "
+"delivered slowly and clearly in a defined, familiar everyday context."
+msgstr ""

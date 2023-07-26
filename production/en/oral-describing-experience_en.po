@@ -1,0 +1,100 @@
+#. extracted from oral-describing-experience_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:17+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: oral-describing-experience_en.txt:3
+msgid ""
+"Sustained monologue: describing experience"
+"C2_Can give clear, smoothly flowing, elaborate and often memorable "
+"descriptions."
+msgstr ""
+
+#: oral-describing-experience_en.txt:7
+msgid ""
+"C1_Can give clear, detailed descriptions of complex subjects."
+"Can give elaborate descriptions and narratives, integrating sub-themes, "
+"developing particular points and "
+"rounding them off with an appropriate conclusion."
+msgstr ""
+
+#: oral-describing-experience_en.txt:10
+msgid ""
+"B2_Can give clear, detailed descriptions on a wide range of subjects related "
+"to their field of interest."
+"Can describe the personal significance of events and experiences in detail."
+msgstr ""
+
+#: oral-describing-experience_en.txt:12
+msgid ""
+"B1+_Can clearly express feelings about something experienced and give "
+"reasons to explain those feelings."
+msgstr ""
+
+#: oral-describing-experience_en.txt:21
+msgid ""
+"B1_Can give straightforward descriptions on a variety of familiar subjects "
+"within their field of interest."
+"Can reasonably fluently relate a straightforward narrative or description as "
+"a sequence of points."
+"Can give detailed accounts of experiences, describing feelings and reactions."
+""
+"Can relate details of unpredictable occurrences, e.g. an accident."
+"Can relate the plot of a book or film and describe their reactions."
+"Can describe dreams, hopes and ambitions."
+"Can describe events, real or imagined."
+"Can narrate a story."
+msgstr ""
+
+#: oral-describing-experience_en.txt:29
+msgid ""
+"A2+_Can tell a story or describe something in a simple list of points."
+"Can describe everyday aspects of their environment, e.g. people, places, a "
+"job or study experience."
+"Can give short, basic descriptions of events and activities."
+"Can describe plans and arrangements, habits and routines, past activities "
+"and personal experiences."
+"Can use simple descriptive language to make brief statements about and "
+"compare objects and "
+"possessions."
+"Can explain what they like or dislike about something."
+msgstr ""
+
+#: oral-describing-experience_en.txt:34
+msgid ""
+"A2_Can describe their family, living conditions, educational background, "
+"present or most recent job."
+"Can describe people, places and possessions in simple terms."
+"Can express what they are good at and not so good at (e.g. sports, games, "
+"skills, subjects)."
+"Can briefly describe what they plan to do at the weekend or during the "
+"holidays."
+msgstr ""
+
+#: oral-describing-experience_en.txt:38
+msgid ""
+"A1-Can describe themselves, what they do and where they live."
+"Can describe simple aspects of their everyday life in a series of simple "
+"sentences, using simple words/signs "
+"and basic phrases, provided they can prepare in advance."
+msgstr ""
+
+#: oral-describing-experience_en.txt:42
+msgid ""
+"Pre-A1_Can describe themselves (e.g. name, age, family), using simple words/"
+"signs and formulaic expressions, "
+"provided they can prepare in advance."
+"Can express how they are feeling using simple adjectives like “happy” or "
+"“tired”, accompanied by body "
+"language."
+msgstr ""

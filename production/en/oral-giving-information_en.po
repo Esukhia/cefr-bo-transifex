@@ -1,0 +1,75 @@
+#. extracted from oral-giving-information_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:17+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: oral-giving-information_en.txt:2
+msgid "Sustained monologue: giving information"
+msgstr ""
+
+#: oral-giving-information_en.txt:4
+msgid "C2_No descriptors available; see C1"
+msgstr ""
+
+#: oral-giving-information_en.txt:7
+msgid ""
+"C1_Can communicate clearly detailed distinctions between ideas, concepts and "
+"things that closely resemble one other."
+"Can give instructions on carrying out a series of complex professional or "
+"academic procedures."
+msgstr ""
+
+#: oral-giving-information_en.txt:10
+msgid ""
+"B2+_Can communicate complex information and advice on the full range of "
+"matters related to their "
+"occupational role."
+msgstr ""
+
+#: oral-giving-information_en.txt:13
+msgid ""
+"B2_Can communicate detailed information reliably."
+"Can give a clear, detailed description of how to carry out a procedure."
+msgstr ""
+
+#: oral-giving-information_en.txt:16
+msgid ""
+"B1+_Can explain the main points in an idea or problem with reasonable "
+"precision."
+"Can describe how to do something, giving detailed instructions."
+msgstr ""
+
+#: oral-giving-information_en.txt:18
+msgid ""
+"B1_Can report straightforward factual information on a familiar topic, for "
+"example to indicate the nature of a problem or to give detailed directions, "
+"provided they can prepare beforehand."
+msgstr ""
+
+#: oral-giving-information_en.txt:20
+msgid ""
+"A2_Can give simple directions on how to get from X to Y, using basic "
+"expressions such as “turn right” and “go straight”, along with sequential "
+"connectors such as “first”, “then” and “next”."
+msgstr ""
+
+#: oral-giving-information_en.txt:22
+msgid ""
+"A1_Can name an object and indicate its shape and colour while showing it to "
+"others using basic words/signs, phrases and formulaic expressions, provided "
+"they can prepare in advance."
+msgstr ""
+
+#: oral-giving-information_en.txt:23
+msgid "Pre-A1_No descriptors available"
+msgstr ""

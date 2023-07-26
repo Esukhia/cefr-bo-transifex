@@ -1,0 +1,104 @@
+#. extracted from oral-addressing-audiences_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:17+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: oral-addressing-audiences_en.txt:2
+msgid "Addressing audiences"
+msgstr ""
+
+#: oral-addressing-audiences_en.txt:5
+msgid ""
+"C2_Can present a complex topic confidently and articulately to an audience "
+"unfamiliar with it, structuring and adapting the talk flexibly to meet the "
+"audience’s needs."
+"Can handle difficult and even hostile questioning."
+msgstr ""
+
+#: oral-addressing-audiences_en.txt:10
+msgid ""
+"C1_Can give a clear, well-structured presentation on a complex subject, "
+"expanding and supporting points of view at some length with subsidiary "
+"points, reasons and relevant examples."
+"Can structure a longer presentation appropriately in order to help the "
+"audience follow the sequence of ideas and understand the overall "
+"argumentation."
+"Can speculate or hypothesise in presenting a complex subject, comparing and "
+"evaluating alternative proposals and arguments."
+"Can handle interjections well, responding spontaneously and almost "
+"effortlessly."
+msgstr ""
+
+#: oral-addressing-audiences_en.txt:13
+msgid ""
+"B2+_Can give a clear, systematically developed presentation, with "
+"highlighting of significant points, and relevant supporting detail."
+"Can depart spontaneously from a prepared text and follow up interesting "
+"points raised by members of the audience, often showing remarkable fluency "
+"and ease of expression."
+msgstr ""
+
+#: oral-addressing-audiences_en.txt:18
+msgid ""
+"B2_Can give a clear, prepared presentation, giving reasons in support of or "
+"against a particular point of view "
+"and giving the advantages and disadvantages of various options."
+"Can take a series of follow-up questions with a degree of fluency and "
+"spontaneity which poses no strain for "
+"either themselves or the audience."
+msgstr ""
+
+#: oral-addressing-audiences_en.txt:21
+msgid ""
+"B1+_Can give a prepared presentation on a familiar topic within their field, "
+"outlining similarities and differences "
+"(e.g. between products, countries/regions, plans)."
+msgstr ""
+
+#: oral-addressing-audiences_en.txt:26
+msgid ""
+"B1_Can give a prepared straightforward presentation on a familiar topic "
+"within their field which is clear "
+"enough to be followed without difficulty most of the time, and in which the "
+"main points are explained with "
+"reasonable precision."
+"Can take follow-up questions, but may have to ask for repetition if the "
+"delivery is rapid."
+msgstr ""
+
+#: oral-addressing-audiences_en.txt:30
+msgid ""
+"A2+_Can give a short, rehearsed presentation on a topic pertinent to their "
+"everyday life, and briefly give reasons "
+"and explanations for opinions, plans and actions."
+"Can cope with a limited number of straightforward follow-up questions."
+msgstr ""
+
+#: oral-addressing-audiences_en.txt:34
+msgid ""
+"A2_Can give a short, rehearsed, basic presentation on a familiar subject."
+"Can answer straightforward follow-up questions if they can ask for "
+"repetition and if some help with the "
+"formulation of their reply is possible."
+msgstr ""
+
+#: oral-addressing-audiences_en.txt:37
+msgid ""
+"A1_Can use a very short prepared text to deliver a rehearsed statement (e.g. "
+"to formally introduce someone, to "
+"propose a toast)."
+msgstr ""
+
+#: oral-addressing-audiences_en.txt:38
+msgid "Pre-A1_No descriptors available"
+msgstr ""

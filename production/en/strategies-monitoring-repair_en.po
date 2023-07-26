@@ -1,0 +1,70 @@
+#. extracted from strategies-monitoring-repair_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:17+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: strategies-monitoring-repair_en.txt:2
+msgid "Monitoring and repair"
+msgstr ""
+
+#: strategies-monitoring-repair_en.txt:4
+msgid ""
+"C2_Can backtrack and restructure around a difficulty so smoothly that the "
+"interlocutor is hardly aware of it."
+msgstr ""
+
+#: strategies-monitoring-repair_en.txt:7
+msgid ""
+"C1_Can backtrack when they encounter a difficulty and reformulate what they "
+"want to say without fully interrupting the flow of language."
+"Can self-correct with a high degree of effectiveness."
+msgstr ""
+
+#: strategies-monitoring-repair_en.txt:10
+msgid ""
+"B2+_Can often retrospectively self-correct their occasional “slips” or non-"
+"systematic errors and minor flaws in "
+"sentence structure."
+msgstr ""
+
+#: strategies-monitoring-repair_en.txt:13
+msgid ""
+"B2_Can correct slips and errors that they become conscious of, or that have "
+"led to misunderstandings."
+"Can make a note of their recurring mistakes and consciously monitor for them."
+msgstr ""
+
+#: strategies-monitoring-repair_en.txt:16
+msgid ""
+"B1+_Can correct mix-ups with the marking of time or expressions that lead to "
+"misunderstandings, provided the "
+"interlocutor indicates there is a problem."
+msgstr ""
+
+#: strategies-monitoring-repair_en.txt:19
+msgid ""
+"B1_Can ask for confirmation that a form used is correct."
+"Can start again using a different tactic when communication breaks down."
+msgstr ""
+
+#: strategies-monitoring-repair_en.txt:21
+msgid "A2_No descriptors available"
+msgstr ""
+
+#: strategies-monitoring-repair_en.txt:23
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: strategies-monitoring-repair_en.txt:24
+msgid "Pre-A1_No descriptors available"
+msgstr ""

@@ -1,0 +1,77 @@
+#. extracted from strategies-compensating_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:17+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: strategies-compensating_en.txt:2
+msgid "Compensating"
+msgstr ""
+
+#: strategies-compensating_en.txt:4
+msgid ""
+"C2_Can substitute an equivalent term for a word/sign they can’t recall, so "
+"smoothly that it is scarcely noticeable."
+msgstr ""
+
+#: strategies-compensating_en.txt:6
+msgid ""
+"C1_Can exploit their range of vocabulary options creatively so as to readily "
+"and effectively use circumlocution in almost all situations."
+msgstr ""
+
+#: strategies-compensating_en.txt:8
+msgid ""
+"B2+_Can use circumlocution and paraphrase to cover gaps in vocabulary and "
+"structure."
+msgstr ""
+
+#: strategies-compensating_en.txt:10
+msgid ""
+"B2_Can address most communication problems by using circumlocution, or by "
+"avoiding difficult expressions."
+msgstr ""
+
+#: strategies-compensating_en.txt:13
+msgid ""
+"B1+_Can define the features of something concrete for which they can’t "
+"remember the word/sign."
+"Can convey meaning by qualifying a word/sign meaning something similar (e.g. "
+"a truck for people = bus)."
+msgstr ""
+
+#: strategies-compensating_en.txt:16
+msgid ""
+"B1_Can use a simple word/sign meaning something similar to the concept they "
+"want to convey and invite “correction”."
+"Can “foreignise” word/signs in their first language and ask for confirmation."
+msgstr ""
+
+#: strategies-compensating_en.txt:18
+msgid ""
+"A2+_Can use an inadequate word/sign from their repertoire and use gestures "
+"to clarify what they mean."
+msgstr ""
+
+#: strategies-compensating_en.txt:20
+msgid ""
+"A2_Can identify what they mean by pointing to it (e.g. “I’d like this, "
+"please”)."
+msgstr ""
+
+#: strategies-compensating_en.txt:22
+msgid "A1_Can use gestures to support simple words/signs in expressing a need."
+msgstr ""
+
+#: strategies-compensating_en.txt:23
+msgid "Pre-A1_Can point to something and ask what it is."
+msgstr ""

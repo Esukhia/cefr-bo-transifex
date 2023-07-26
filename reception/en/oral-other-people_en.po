@@ -1,0 +1,96 @@
+#. extracted from oral-other-people_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:14+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: oral-other-people_en.txt:2
+msgid "Understanding conversation between other people"
+msgstr ""
+
+#: oral-other-people_en.txt:4
+msgid ""
+"C2_Can identify the sociocultural implications of most of the language used "
+"in colloquial discussions that take place at a natural speed."
+msgstr ""
+
+#: oral-other-people_en.txt:7
+msgid ""
+"C1_Can easily follow complex interactions between third parties in group "
+"discussion and debate, even on abstract, complex, unfamiliar topics."
+"Can identify the attitude of each participant in an animated discussion "
+"characterised by overlapping turns, digressions and colloquialisms that is "
+"delivered at a natural speed in varieties that are familiar."
+msgstr ""
+
+#: oral-other-people_en.txt:9
+msgid ""
+"B2+_Can keep up with an animated conversation between proficient users of "
+"the target language."
+msgstr ""
+
+#: oral-other-people_en.txt:16
+msgid ""
+"B2_Can with some effort catch much of what is said around them, but may find "
+"it difficult to participate "
+"effectively in discussion with several users of the target language who do "
+"not modify their language in "
+"any way."
+"Can identify the main reasons for and against an argument or idea in a "
+"discussion conducted in clear "
+"standard language or a familiar variety."
+"Can follow chronological sequence in extended informal discourse, e.g. in a "
+"story or anecdote."
+msgstr ""
+
+#: oral-other-people_en.txt:19
+msgid ""
+"B1+_Can follow much of everyday conversation and discussion, provided it is "
+"clearly articulated in standard "
+"language or in a familiar variety."
+msgstr ""
+
+#: oral-other-people_en.txt:22
+msgid ""
+"B1_Can generally follow the main points of extended discussion around them, "
+"provided it is clearly "
+"articulated in standard language or a familiar variety."
+msgstr ""
+
+#: oral-other-people_en.txt:25
+msgid ""
+"A2+_Can generally identify the topic of discussion around them when it is "
+"conducted slowly and clearly."
+"Can recognise when people agree and disagree in a conversation conducted "
+"slowly and clearly."
+msgstr ""
+
+#: oral-other-people_en.txt:27
+msgid ""
+"A2_Can follow in outline short, simple social exchanges, conducted very "
+"slowly and clearly."
+msgstr ""
+
+#: oral-other-people_en.txt:32
+msgid ""
+"A1_Can understand some expressions when people are discussing them, family, "
+"school, hobbies or "
+"surroundings, provided the delivery is slow and clear."
+"Can understand words/signs and short sentences in a simple conversation ("
+"e.g. between a customer and "
+"a salesperson in a shop), provided people communicate very slowly and very "
+"clearly."
+msgstr ""
+
+#: oral-other-people_en.txt:33
+msgid "Pre-A1 No descriptors availabl"
+msgstr ""

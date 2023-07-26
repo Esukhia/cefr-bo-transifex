@@ -1,0 +1,69 @@
+#. extracted from strategies-planning_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:17+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: strategies-planning_en.txt:2
+msgid "Planning"
+msgstr ""
+
+#: strategies-planning_en.txt:4
+msgid "C2_No descriptors available; see C1"
+msgstr ""
+
+#: strategies-planning_en.txt:6
+msgid ""
+"C1_Can, when preparing a more formal text, consciously adopt the conventions "
+"linked to the particular type of text concerned (e.g. structure, level of "
+"formality)."
+msgstr ""
+
+#: strategies-planning_en.txt:8
+msgid ""
+"B2+_Can, in preparing for a potentially complicated or awkward situation, "
+"plan what to say in the event of different reactions, reflecting on what "
+"expression would be appropriate."
+msgstr ""
+
+#: strategies-planning_en.txt:10
+msgid ""
+"B2_Can plan what is to be said and the means to say it, considering the "
+"effect on the recipient(s)."
+msgstr ""
+
+#: strategies-planning_en.txt:12
+msgid ""
+"B1+_Can rehearse and try out new combinations and expressions, inviting "
+"feedback."
+msgstr ""
+
+#: strategies-planning_en.txt:14
+msgid ""
+"B1_Can work out how to communicate the main point(s) they want to get "
+"across, exploiting any resources available and limiting the message to what "
+"they can recall or find the means to express."
+msgstr ""
+
+#: strategies-planning_en.txt:16
+msgid ""
+"A2_Can recall and rehearse an appropriate set of phrases from their "
+"repertoire."
+msgstr ""
+
+#: strategies-planning_en.txt:18
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: strategies-planning_en.txt:19
+msgid "Pre-A1 No descriptors available"
+msgstr ""

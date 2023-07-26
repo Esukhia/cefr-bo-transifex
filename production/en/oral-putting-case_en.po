@@ -1,0 +1,78 @@
+#. extracted from oral-putting-case_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:17+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: oral-putting-case_en.txt:2
+msgid "Sustained monologue: putting a case (e.g. in a debate)"
+msgstr ""
+
+#: oral-putting-case_en.txt:4
+msgid "C2_No descriptors available; see C1"
+msgstr ""
+
+#: oral-putting-case_en.txt:7
+msgid ""
+"C1_Can argue a case on a complex issue, formulating points precisely and "
+"employing emphasis effectively."
+"Can develop an argument systematically in well-structured language, taking "
+"into account the interlocutor’s perspective, highlighting significant points "
+"with supporting examples and concluding appropriately."
+msgstr ""
+
+#: oral-putting-case_en.txt:9
+msgid ""
+"B2+_Can develop an argument systematically with appropriate highlighting of "
+"significant points, and relevant supporting detail."
+msgstr ""
+
+#: oral-putting-case_en.txt:13
+msgid ""
+"B2_Can develop a clear argument, expanding and supporting their points of "
+"view at some length with subsidiary points and relevant examples."
+"Can construct a chain of reasoned argument."
+"Can explain a viewpoint on a topical issue giving the advantages and "
+"disadvantages of various options."
+msgstr ""
+
+#: oral-putting-case_en.txt:16
+msgid ""
+"B1+_Can develop an argument well enough to be followed without difficulty "
+"most of the time."
+"Can give simple reasons to justify a viewpoint on a familiar topic."
+msgstr ""
+
+#: oral-putting-case_en.txt:20
+msgid ""
+"B1_Can express opinions on subjects relating to everyday life, using simple "
+"expressions."
+"Can briefly give reasons and explanations for opinions, plans and actions."
+"Can explain whether or not they approve of what someone has done and give "
+"reasons to justify this opinion."
+msgstr ""
+
+#: oral-putting-case_en.txt:23
+msgid ""
+"A2_Can explain what they like or dislike about something, why they prefer "
+"one thing to another, making simple, direct comparisons."
+"Can present their opinion in simple terms, provided interlocutors are "
+"patient."
+msgstr ""
+
+#: oral-putting-case_en.txt:25
+msgid "A1_No descriptors available"
+msgstr ""
+
+#: oral-putting-case_en.txt:26
+msgid "Pre-A1 No descriptors available"
+msgstr ""

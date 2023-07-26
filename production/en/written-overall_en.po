@@ -1,0 +1,68 @@
+#. extracted from written-overall_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:17+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: written-overall_en.txt:2
+msgid "Overall written production"
+msgstr ""
+
+#: written-overall_en.txt:4
+msgid ""
+"C2_Can produce clear, smoothly flowing, complex texts in an appropriate and "
+"effective style and a logical structure which helps the reader identify "
+"significant points."
+msgstr ""
+
+#: written-overall_en.txt:7
+msgid ""
+"C1_Can produce clear, well-structured texts of complex subjects, underlining "
+"the relevant salient issues, expanding and supporting points of view at some "
+"length with subsidiary points, reasons and relevant examples, and rounding "
+"off with an appropriate conclusion."
+"Can employ the structure and conventions of a variety of genres, varying the "
+"tone, style and register according to addressee, text type and theme."
+msgstr ""
+
+#: written-overall_en.txt:9
+msgid ""
+"B2_Can produce clear, detailed texts on a variety of subjects related to "
+"their field of interest, synthesising and evaluating information and "
+"arguments from a number of sources."
+msgstr ""
+
+#: written-overall_en.txt:11
+msgid ""
+"B1_Can produce straightforward connected texts on a range of familiar "
+"subjects within their field of interest, by linking a series of shorter "
+"discrete elements into a linear sequence."
+msgstr ""
+
+#: written-overall_en.txt:13
+msgid ""
+"A2_Can produce a series of simple phrases and sentences linked with simple "
+"connectors like “and”, “but” and “because”."
+msgstr ""
+
+#: written-overall_en.txt:16
+msgid ""
+"A1_Can give information about matters of personal relevance (e.g. likes and "
+"dislikes, family, pets) using simple words/signs and basic expressions."
+"Can produce simple isolated phrases and sentences."
+msgstr ""
+
+#: written-overall_en.txt:17
+msgid ""
+"Pre-A1_Can give basic personal information (e.g. name, address, nationality)"
+", perhaps with the use of a dictionary."
+msgstr ""

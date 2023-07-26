@@ -1,0 +1,103 @@
+#. extracted from strategies-cues-inferring_en.txt
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION"
+"Report-Msgid-Bugs-To: "
+"POT-Creation-Date: 2023-07-26 15:15+0530"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>"
+"Language-Team: LANGUAGE <LL@li.org>"
+"MIME-Version: 1.0"
+"Content-Type: text/plain; charset=UTF-8"
+"Content-Transfer-Encoding: 8bit"
+"X-Generator: Translate Toolkit 2.5.0"
+
+#: strategies-cues-inferring_en.txt:2
+msgid "Identifying cues and inferring (spoken, signed and written)"
+msgstr ""
+
+#: strategies-cues-inferring_en.txt:4
+msgid "C2_No descriptors available; see C1"
+msgstr ""
+
+#: strategies-cues-inferring_en.txt:7
+msgid ""
+"C1_Is skilled at using contextual, grammatical and lexical cues to infer "
+"attitude, mood and intentions and "
+"anticipate what will come next."
+msgstr ""
+
+#: strategies-cues-inferring_en.txt:9
+msgid ""
+"B2_Can use a variety of strategies to achieve comprehension, including "
+"watching out for main points and checking comprehension by using contextual "
+"clues."
+msgstr ""
+
+#: strategies-cues-inferring_en.txt:16
+msgid ""
+"B1+_Can exploit different types of connectors (numerical, temporal, logical) "
+"and the role of key paragraphs in "
+"the overall organisation in order to better understand the argumentation in "
+"a text."
+"Can extrapolate the meaning of a section of a text by taking into account "
+"the text as a whole."
+"Can identify the meaning of unfamiliar words/signs from the context on "
+"topics related to their field and "
+"interests."
+"Can extrapolate the meaning of occasional unknown words/signs from the "
+"context and deduce sentence meaning, provided the topic discussed is "
+"familiar."
+msgstr ""
+
+#: strategies-cues-inferring_en.txt:22
+msgid ""
+"B1_Can make basic inferences or predictions about text content from "
+"headings, titles or headlines."
+"Can watch or listen to a short narrative and predict what will happen next."
+"Can follow a line of argumentation or the sequence of events in a story, by "
+"focusing on common logical connectors (e.g. however, because) and temporal "
+"connectors (e.g. after that, beforehand)."
+"Can deduce the probable meaning of unknown words/signs in a text by "
+"identifying their constituent parts "
+"(e.g. identifying roots, lexical elements, suffixes and prefixes)."
+msgstr ""
+
+#: strategies-cues-inferring_en.txt:26
+msgid ""
+"A2+_Can use an idea of the overall meaning of short texts and utterances on "
+"everyday topics of a concrete type "
+"to derive the probable meaning of unknown words/signs from the context."
+"Can exploit their recognition of known words/signs to deduce the meaning of "
+"unfamiliar words/signs in short expressions used in routine everyday "
+"contexts."
+msgstr ""
+
+#: strategies-cues-inferring_en.txt:32
+msgid ""
+"A2_Can exploit format, appearance and typographic features in order to "
+"identify the type of text: news story, "
+"promotional text, article, textbook, chat or forum, etc."
+"Can exploit numbers, dates, names, proper nouns, etc. to identify the topic "
+"of a text."
+"Can deduce the meaning and function of unknown formulaic expressions from "
+"their position in a text (e.g. "
+"at the beginning or end of a letter)."
+msgstr ""
+
+#: strategies-cues-inferring_en.txt:37
+msgid ""
+"A1_Can deduce the meaning of an unknown word/sign for a concrete action or "
+"object, provided the "
+"surrounding text is very simple, and on a familiar everyday subject."
+"Can guess the probable meaning of an unknown word/sign that is similar to "
+"one in the language they "
+"normally use."
+msgstr ""
+
+#: strategies-cues-inferring_en.txt:38
+msgid ""
+"Pre-A1_Can deduce the meaning of a word/sign from an accompanying picture or "
+"icon."
+msgstr ""
