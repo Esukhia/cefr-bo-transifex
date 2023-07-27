@@ -1,0 +1,139 @@
+# 
+# Translators:
+# Lungsang bod, 2023
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSIONReport-Msgid-Bugs-To: POT-Creation-Date: 2023-07-25 17:39+0530PO-Revision-Date: YEAR-MO-DA HO:MI+ZONELast-Translator: FULL NAME <EMAIL@ADDRESS>Language-Team: LANGUAGE <LL@li.org>MIME-Version: 1.0Content-Type: text/plain; charset=UTF-8Content-Transfer-Encoding: 8bitX-Generator: Translate Toolkit 2.5.0\n"
+"Last-Translator: Lungsang bod, 2023\n"
+"Language-Team: Tibetan (https://app.transifex.com/OpenPecha/teams/136507/bo/)\n"
+"Language: bo\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: overall_en.txt:2
+msgid "Overall mediation"
+msgstr "སྤྱི་ཡོངས་མཚམས་སྦྱོར།"
+
+#: overall_en.txt:5
+msgid ""
+"C2_Can mediate effectively and naturally, taking on different roles "
+"according to the needs of the people and situation involved, identifying "
+"nuances and undercurrents and guiding a sensitive or delicate discussion. "
+"Can explain in clear, fluent, well-structured lanzguage the way facts and "
+"arguments are presented, conveying evaluative aspects and most nuances "
+"precisely, and pointing out sociocultural implications (e.g. use of "
+"register, understatement, irony and sarcasm)."
+msgstr ""
+"C2_མི་རྣམས་ཀྱི་དགོས་མཁོ་དང་སྐབས་ཐོག་གི་གནས་སྟངས་ལ་གཞིགས་པའི་འགན་འདྲ་མིན་འཁུར་བ་དང་།"
+" ཚོར་བ་ལྐོག་གྱུར་དང་ཁྱད་པར་ཕྲ་མོ་དག་ངོས་འཛིན་བྱེད་པ། "
+"གལ་གནད་ཅན་ནམ་་ཛ་དྲག་ཅན་གྱི་་བགྲོ་གླེང་ཡག་པོ་ཡོང་བ་བཅས་ལ་ནུས་པ་དང་ལྡན་པའི་སྒོ་ནས་་མཚམས་སྦྱོར་བྱེད་ཐུབ།"
+
+#: overall_en.txt:9
+msgid ""
+"C1_Can act effectively as a mediator, helping to maintain positive "
+"interaction by interpreting different perspectives, managing ambiguity, "
+"anticipating misunderstandings and intervening diplomatically in order to "
+"redirect the conversation. Can build on different contributions to a "
+"discussion, stimulating reasoning with a series of questions.Can convey "
+"clearly and fluently in well-structured language the significant ideas in "
+"long, complex texts, whether or not they relate to their own fields of "
+"interest, including evaluative aspects and most nuances."
+msgstr ""
+"C1_ལྟ་སྟངས་འདྲ་མིན་ལ་གསལ་བཤད་བྱས་ཏེ། བཟང་ཕྱོགས་ཀྱི་བགྲོ་གླེང་རྒྱུན་སྐྱོང་བར་རམ་འདེགས་བྱེད་པ་དང་། གནད་དོན་ཞིག་གི་སྐོར་ལ་གོ་རྟོགས་ཆ་ཚང་མེད་ཀྱང་གང་ཤེས་པ་དེ་གཞི་ལ་བཞག་ནས་ཐག་གཅོད་བྱེད་པ། བགྲོ་གླེང་གི་སྐབས་སུ་གོ་ནོར་ཡོང་བར་སྔོན་དཔག་བྱེད་པ། གླེང་མོལ་དེར་ཁ་ཕྱོགས་གསར་པ་སྟོན་པར་ཐབས་ཇུས་ལྡན་པའི་ངང་ནས་བར་འདུམ་བྱེད་པ་བཅས་ཀྱི་སྒོ་ནས། གནད་ལ་འཁེལ་ཞིང་དོན་ལ་ཕན་པའི་བར་འདུམ་བ་ཡག་པོ་ཞིག་བྱེད་ཐུབ།\n"
+"\n"
+"ཐུན་མོང་མ་ཡིན་པའི་ལྟ་ཚུལ་གྱི་སྒོ་ནས་བགྲོ་གླེང་ལ་འཇུག་ཐུབ་པ་དང་། དྲི་བ་སྣ་ཚོགས་ཀྱི་སྒོ་ནས་རྒྱུ་མཚན་དང་ལྡན་པའི་རིག་པ་རྙེད་པར་སྐུལ་མ་གཏོང་ཐུབ།\n"
+"\n"
+"ཁྱད་པར་ཕྲ་མོ་དང་། ཁྱད་ཆོས་ཞིབ་བསྡུར་སོགས་སྒེར་གྱི་དགའ་མོས་བྱེད་སའི་ཆེད་ལས་དང་འབྲེལ་བ་ཡོད་མེད་ལ་མ་ལྟོས་པར། རྩོམ་ཡིག་རིང་པོ་དང་། རྙོག་འཛིངས་ཅན་ནང་གི་ལྟ་ཚུལ་གཙོ་བོ་དག་ཚིག་བརྗོད་བདེ་པོའི་སྒོ་ནས་ཁ་གསལ་པོ་དང་ཆུ་རྒྱུག་རྒྱུག་བཞིན་དུ་བརྒྱུད་སྤྲོད་བྱེད་ཐུབ།"
+
+#: overall_en.txt:13
+msgid ""
+"B2+_Can establish a supportive environment for sharing ideas and facilitate "
+"discussion of delicate issues, showing appreciation of different "
+"perspectives, encouraging people to explore issues and adjusting sensitively"
+" the way they express things.Can build on others’ ideas, making suggestions "
+"for ways forward. Can convey the main content of well-structured but long "
+"and propositionally complex texts on subjects within their fields of "
+"professional, academic and personal interest, clarifying the opinions and "
+"purposes of speakers/signers."
+msgstr ""
+"B2+_གཞན་གྱི་ལྟ་ཚུལ་གླེང་སྟངས་ལ་བསྟུན་མཁས་བྱེད་པ་དང་། གཞན་ལ་གནད་དོན་དཔྱད་ཞིབ་བྱེད་པར་སེམས་ཤུགས་སྤར་བ། ལྟ་སྟངས་འདྲ་མིན་ལ་རྗེས་སུ་ཡི་རངས་བྱེད་པ། ཛ་དྲག་གི་གནད་དོན་སྐོར་ལ་གྲོས་བསྡུར་བྱེད་པར་མཐུན་རྐྱེན་སྦྱོར་བ། ཕན་ཚུན་དབར་ལྟ་ཚུལ་བརྗེ་རེས་བྱེད་པ་བཅས་ཀྱི་སྒོ་ནས་གླེང་མོལ་དང་བགྲོ་གླེང་གི་ཁོར་ཡུག་ཡག་པོ་སྐྲུན་ཐུབ།\n"
+"གཞན་གྱི་ལྟ་ཚུལ་སྒང་ལ་རང་ཉིད་ཀྱི་བསམ་ཚུལ་སྤུངས་ནས་ནང་དོན་ཕྱུག་ཏུ་གཏོང་ཐུབ།\n"
+"གཏམ་བཤད་བྱེད་མཁན་གྱི་དམིགས་ཡུལ་དང་བསམ་ཚུལ་གསལ་པོ་བཟོས་པའི་ཐོག་ནས། ཁོང་ཚོ་སྒེར་གྱི་དགའ་མོས་དང་། སློབ་སྦྱོང་། ཆེད་ལས་སོགས་དང་འབྲེལ་བ་ཡོད་པའི་བརྗོད་གཞིའི་སྐོར་གྱི་རྩོམ་ཡིག་རིང་ལ་རྙོག་འཛིངས་ཆེ་ཡང་ཚིག་བརྗོད་བདེ་པོའི་རིགས་ཀྱི་ནང་དོན་གཙོ་བོ་ཁག་བརྒྱུད་སྤྲོད་བྱེད་ཐུབ།"
+
+#: overall_en.txt:17
+msgid ""
+"B2_Can work collaboratively with people from different backgrounds, creating"
+" a positive atmosphere by providing support, asking questions to identify "
+"common goals, comparing options for how to achieve them and explaining "
+"suggestions for what to do next. Can further develop others’ ideas, pose "
+"questions that invite reactions from different perspectives and propose a "
+"solution or next steps. Can convey detailed information and arguments "
+"reliably, e.g. the significant point(s) contained in complex but well-"
+"structured texts within their fields of professional, academic and personal "
+"interest."
+msgstr ""
+"B2_མཐུན་རྐྱེན་སྦྱར་ནས་སྤྲོ་སྣང་ལྡན་པའི་ཁོར་ཡུག་སྐྲུན་པ་དང་། ཐུན་མོང་གི་དམིགས་ཡུལ་ངོས་འཛིན་བྱེད་པར་དྲི་བ་འདྲི་བ། དམིགས་ཡུལ་དེ་དག་ཇི་ལྟར་ལམ་ལྷོང་ཡོང་བར་གདམ་ག་བསྡུར་བ། རྗེས་ཕྱོགས་སུ་ཅི་ཞིག་བྱ་དགོས་པའི་བསམ་ཚུལ་འགྲེལ་བརྗོད་བྱེད་པ་སོགས་ཀྱི་སྒོ་ནས་རྒྱབ་ལྗོངས་མི་གཅིག་པའི་མི་དང་མཉམ་དུ་མཉམ་རུབ་ཀྱིས་ལས་ཀ་བྱེད་ཐུབ།\n"
+"ལྟ་སྟངས་འདྲ་མིན་ནས་ཡ་ལན་ཡོང་བར་དྲི་བ་འདྲི་བ་དང་། ཐབས་ལམ་གཞན་པ་ངོ་སྤྲོད་བྱེད་པ། གཞན་གྱི་ལྟ་ཚུལ་གོང་མཐོར་གཏོང་བ་བཅས་བྱེད་ཐུབ།\n"
+"གནད་དོན་ཞིག་གི་སྐོར་གྱི་ཞིབ་ཕྲའི་གནས་ཚུལ་དང་། རྒྱུ་མཚན་ཁུངས་ལྡན་བརྒྱུད་སྤྲོད་བྱེད་ཐུབ། དཔེར་ན། སྒེར་གྱི་དགའ་ཕྱོགས་དང་། སློབ་སྦྱོང་། ཆེད་ལས་སོགས་དང་འབྲེལ་བ་ཡོད་པའི་རྩོམ་ཡིག་རྙོག་འཛིངས་ཆེ་ཡང་ཚིག་བརྗོད་བདེ་པོའི་རིགས་ཀྱི་ནང་དོན་གཙོ་བོ་ལྟ་བུ།"
+
+#: overall_en.txt:20
+msgid ""
+"B1+_Can collaborate with people from other backgrounds, showing interest and"
+" empathy by asking and answering simple questions, formulating and "
+"responding to suggestions, asking whether people agree, and proposing "
+"alternative approaches.Can convey the main points made in long texts "
+"expressed in uncomplicated language on topics of personal interest, provided"
+" they can check the meaning of certain expressions."
+msgstr ""
+"B1+_རྒྱབ་ལྗོངས་མི་གཅིག་པའི་མི་སྣ་དང་མཉམ་དུ། དྲི་བ་དྲི་ལན་བྱེད་སྐབས་དོ་སྣང་དང་ཚོར་བ་ཡོད་པ། བསམ་ཚུལ་ཁག་ལ་ཡ་ལན་བྱེད་པ། མོས་མཐུན་བྱེད་མིན་ལ་སྐད་ཆ་འདྲི་བ། ཐབས་ལམ་གཞན་ངོ་སྤྲོད་བྱེད་པ་བཅས་ཀྱི་སྒོ་ནས་མཉམ་ལས་བྱེད་ཐུབ།\n"
+"བརྗོད་པ་ཁ་ཤས་ཀྱི་གོ་བར་འཚོལ་ཞིབ་བྱེད་ཆོག་ན། སྒེར་གྱིས་དགའ་མོས་བྱེད་སའི་བརྗོད་གཞིའི་ཐད་ལ། ཚིག་བརྗོད་རྙོག་འཛིངས་མེད་པའི་སྒོ་ནས་བྲིས་པའི་རྩོམ་ཡིག་རིང་པོའི་ནང་གི་ནང་དོན་གཙོ་བོ་དག་བརྒྱུད་སྤྲོད་བྱེད་ཐུབ།"
+
+#: overall_en.txt:23
+msgid ""
+"B1_Can introduce people from different backgrounds, showing awareness that "
+"some questions may be perceived differently, and invite other people to "
+"contribute their expertise and experience as well as their views. Can convey"
+" information given in clear, well-structured informational texts on subjects"
+" that are familiar or of personal or current interest, although lexical "
+"limitations cause difficulty with formulation at times."
+msgstr ""
+"B1_རྒྱབ་ལྗོངས་མི་གཅིག་པའི་མི་སྣ་འདྲ་མིན་ངོ་སྤྲོད་དང་། དྲི་བ་འགའ་ཤས་ལ་གོ་བ་ལེན་སྟངས་མི་འདྲ་བ་ཡོད་པ་ཤེས་པ། མི་སྣ་འདྲ་མིན་གྱི་ཉམས་མྱོང་དང་། བསམ་ཚུལ་སྤེལ་རེས་བྱེད་པར་སྐུལ་མ་གཏོང་བ་བཅས་བྱེད་ཐུབ།\n"
+"ཐ་སྙད་ཕྱུག་པོ་མེད་པས་སྐབས་རེར་ཚིག་སྒྲུབ་བཟོ་བར་དཀའ་ལས་འཕྲད་ནའང་། གནས་སྐབས་དགའ་མོས་སམ་རང་གི་དགའ་མོས་བྱེད་ས་དང་། རྒྱུས་ཡོད་ཀྱི་བརྗོད་གཞིའི་སྐོར་གྱི་རྩོམ་ཡིག་ཁ་གསལ་ལ་ཚིག་སྦྱོར་བདེ་པོའི་ནང་གི་གནས་ཚུལ་བརྒྱུད་སྤྲོད་བྱེད་ཐུབ།"
+
+#: overall_en.txt:26
+msgid ""
+"A2+_Can play a supportive role in interaction, provided other participants "
+"speak/sign slowly and that one or more of the participants helps them to "
+"contribute and to express their suggestions. Can convey relevant information"
+" contained in clearly structured, short, simple, informational texts, "
+"provided the texts concern concrete, familiar subjects and are formulated in"
+" simple everyday language."
+msgstr ""
+"A2+_གལ་སྲིད་མཉམ་ཞུགས་པ་གཞན་པས་རྣམ་འགྱུར་ལྷོད་ལྷོད་བྱས་ནས་སྟོན་པ་དང་། སྐད་ཆ་ག་ལེར་ཤོད་པ། དེ་བཞིན་མཉམ་ཞུགས་པ་ཚོའི་ཁྲོད་ནས་ཁ་ཤས་ཀྱིས་ཁོང་ཚོར་སོ་སོའི་བསམ་ཚུལ་ཤོད་པར་རོགས་པ་བྱས་ན། མི་གཞན་དང་མཉམ་དུ་གླེང་མོལ་དོན་དང་ལྡན་པ་ཞིག་ཡོང་བར་རམ་འདེགས་བྱེད་ཐུབ།\n"
+"གལ་སྲིད་རྩོམ་ཡིག་དེ་ཚོ་ཉིན་རེའི་འཚོ་བའི་ནང་བཀོལ་སྤྱོད་ཆེ་བའི་ཚིག་ལས་སླ་པོའི་ནང་བྲིས་ཡོད་པ་གང་ཞིག་ལ་བརྗོད་གཞི་རྒྱུས་ཡོད་ཅིག་ཡིན་ན། རྩོམ་ཡིག་ཐུང་ཐུང་དང་། ལས་སླ་པོ། ཚིག་བརྗོད་བདེ་པོ་ཅན་གྱི་ནང་ཡོད་པའི་འབྲེལ་ཡོད་ཀྱི་གནས་ཚུལ་ཁག་བརྒྱུད་སྤྲོད་བྱེད་ཐུབ།"
+
+#: overall_en.txt:30
+msgid ""
+"A2_Can use simple words/signs to ask someone to explain something. Can "
+"recognise when difficulties occur and indicate in simple language the "
+"apparent nature of a problem. Can convey the main point(s) involved in "
+"short, simple conversations or texts on everyday subjects of immediate "
+"interest, provided these are expressed clearly in simple language."
+msgstr ""
+"A2_ཚིག་དང་མཚོན་རྟགས་ལས་སླ་པོ་བེད་སྤྱོད་བྱས་ནས། མི་ཞིག་ལ་གནད་དོན་ཞིག་གི་སྐོར་འགྲེལ་བཤད་རྒྱག་རོགས་ཞེས་བཤད་ཐུབ།\n"
+"དཀའ་ངལ་དག་ག་དུས་འབྱུང་མིན་ངོས་འཛིན་བྱེད་ཐུབ་ལ། དཀའ་ངལ་དེའི་སྐོར་ལ་ཚིག་ལས་སླ་པོའི་སྒོ་ནས་བཤད་པའམ་འབྲི་ཐུབ།\n"
+"གལ་སྲིད་ཚིག་ལས་སླ་པོ་དང་། ཁ་གསལ་པོའི་སྒོ་ནས་བྲིས་པའམ་བཤད་ཡོད་ན། ཉེ་བར་མཁོ་བའི་ཉིན་རེའི་གནད་དོན་སྐོར་གྱི་རྩོམ་ཡིག་གམ་གླེང་མོལ་ཐུང་ཐུང་དང་ལས་སླ་པོའི་ནང་གི་ནང་དོན་གཙོ་བོ་དག་བརྒྱུད་སྤྲོད་བྱེད་ཐུབ།"
+
+#: overall_en.txt:33
+msgid ""
+"A1-Can use simple words/signs and non-verbal signals to show interest in an "
+"idea. Can convey simple, predictable information of immediate interest given"
+" in short, simple signs and notices, posters and programmes."
+msgstr ""
+"A1_བསམ་ཚུལ་ཞིག་ལ་དགའ་མོས་ཡོད་པ་སྟོན་པར། རྣམ་འགྱུར་དང་། མཚོན་རྟགས། ཚིག་བཅས་ལས་སླ་པོ་དེ་འདྲ་བེད་སྤྱོད་བྱེད་ཐུབ།\n"
+"མཚོན་རྟགས་དང་། ལས་རིམ། གསལ་བསྒྲགས། སྦྱར་ཡིག་སོགས་ཡིག་ཆ་ལས་སླ་པོ་དང་། ཐུང་ཐུང་རིགས་ཀྱི་ནང་དུ་ཡོད་པའི་ཉེ་བར་མཁོ་བའི་གནས་ཚུལ་སྟབས་བདེ་པོ་དང་། སྔོན་དཔག་ཐུབ་པ་དག་བརྒྱུད་སྤྲོད་བྱེད་ཐུབ།"
+
+#: overall_en.txt:34
+msgid "Pre-A1_No descriptors available"
+msgstr "Pre-A1_ བྱེད་ནུས་མེད།"
