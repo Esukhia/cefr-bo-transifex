@@ -22,11 +22,7 @@ def extract_tibetan_characters(po_file_path):
 
     return tibetan_characters
 
-def save_tibetan_characters_to_file(input_file_path, tibetan_characters):
-    folder_name = "markdown"
-    output_folder = os.path.join(os.path.dirname(os.path.dirname(input_file_path)), folder_name)
-    os.makedirs(output_folder, exist_ok=True)
-
+def save_tibetan_characters_to_file(input_file_path, tibetan_characters, output_folder):
     # Get the input file name without extension
     file_name_without_extension = os.path.splitext(os.path.basename(input_file_path))[0]
 
@@ -54,7 +50,12 @@ def process_folders(root_folder):
 
                         tibetan_chars = extract_tibetan_characters(po_file_path)
 
-                        save_tibetan_characters_to_file(po_file_path, tibetan_chars)
+                        # Create the output folder inside the "doc" folder
+                        output_folder_name = os.path.basename(folder_path)
+                        output_folder = os.path.join(root_folder, "docs", output_folder_name)
+                        os.makedirs(output_folder, exist_ok=True)
+
+                        save_tibetan_characters_to_file(po_file_path, tibetan_chars, output_folder)
 
 if __name__ == "__main__":
     root_folder = "./"
