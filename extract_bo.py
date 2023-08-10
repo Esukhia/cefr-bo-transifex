@@ -3,7 +3,7 @@ import re
 import polib
 
 def extract_tibetan_characters(po_file_path):
-    tibetan_characters = set()
+    tibetan_characters = []
 
     # Load the PO file
     po = polib.pofile(po_file_path)
@@ -12,15 +12,19 @@ def extract_tibetan_characters(po_file_path):
     tibetan_pattern = re.compile(r'[\u0F00-\u0FFF]+')
 
     for entry in po:
-        # Extract all Tibetan characters from the msgid and msgstr of each entry
-        tibetan_chars_msgid = tibetan_pattern.findall(entry.msgid)
+        # Extract Tibetan characters from the msgstr of each entry
         tibetan_chars_msgstr = tibetan_pattern.findall(entry.msgstr)
 
-        # Add the Tibetan characters to the set
-        tibetan_characters.update(tibetan_chars_msgid)
-        tibetan_characters.update(tibetan_chars_msgstr)
+        # Combine the characters to reconstruct the msgstr text
+        tibetan_text_msgstr = ''.join(tibetan_chars_msgstr)
+
+        # Add the reconstructed msgstr text to the list
+        tibetan_characters.append(tibetan_text_msgstr)
 
     return tibetan_characters
+
+
+
 
 def save_tibetan_characters_to_file(input_file_path, tibetan_characters, output_folder):
     # Get the input file name without extension
@@ -31,9 +35,9 @@ def save_tibetan_characters_to_file(input_file_path, tibetan_characters, output_
 
     # Write Tibetan characters to the output file in Markdown format
     with open(output_file_path, "w", encoding="utf-8") as output_file:
-        output_file.write("# Tibetan Characters\n")
+        output_file.write("")
         for char in sorted(tibetan_characters):
-            output_file.write(f"- {char}\n")
+            output_file.write(f"\n {char}\n")
 
     print(f"Tibetan characters saved to {output_file_path}")
 
