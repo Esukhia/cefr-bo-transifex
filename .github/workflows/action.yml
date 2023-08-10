@@ -1,8 +1,9 @@
 name: extract_bo.py
 
 on:
-  schedule:
-    - cron: '50 * * * *' 
+  push:
+    branches:
+      - main
 
 jobs:
   build:
