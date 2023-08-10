@@ -1,3 +1,3 @@
-- [LINK-01](link-01.md)
-- [LINK-02](link-02.md)
-- [FAQ](FAQ.md)
+- [mediation](mediation/overall_en_tibetan.md)
+- [reception](reception/oral-overall-comp_en_tibetan.md)
+- [LINK-01]()
